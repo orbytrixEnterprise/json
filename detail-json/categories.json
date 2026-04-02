@@ -1,0 +1,249 @@
+{
+  "total": 10,
+  "data": [
+    {
+      "id": "6968f7437f70a968cc7dc4c1",
+      "name": "anime",
+      "slug": "anime",
+      "icon": "👤",
+      "description": "all anime character",
+      "total_items": 22,
+      "endpoint": "/data/anime.json",
+      "preview": [
+        {
+          "id": "6968f93e7f70a968cc7dc51d",
+          "title": "anime-girl",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487327/drawing-app/documents/f761vnbu44o0esfqaigc.jpg"
+        },
+        {
+          "id": "6968f92e7f70a968cc7dc519",
+          "title": "school-girl",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487348/drawing-app/documents/xckafq6mttnpwdyzsowe.jpg"
+        },
+        {
+          "id": "6968f9257f70a968cc7dc515",
+          "title": "goku",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487374/drawing-app/documents/blshqll5t6b14tad5mj3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "6968fbb47f70a968cc7dc582",
+      "name": "vehicle",
+      "slug": "vehicle",
+      "icon": "🚗",
+      "description": "diffrent diffrent vehicle",
+      "total_items": 13,
+      "endpoint": "/data/vehicle.json",
+      "preview": [
+        {
+          "id": "6968fd137f70a968cc7dc5b7",
+          "title": "Tesla-Model-S",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488277/drawing-app/documents/l8kgmmf0occlkxs4ctfh.jpg"
+        },
+        {
+          "id": "6968fd047f70a968cc7dc5b3",
+          "title": "Lamborghini-Aventador",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488292/drawing-app/documents/pgacz6ij7s07blg8irl1.jpg"
+        },
+        {
+          "id": "6968fcf57f70a968cc7dc5af",
+          "title": "Bugatti-Chiron",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488310/drawing-app/documents/dqqtv5atjeil6o3r1wp6.jpg"
+        }
+      ]
+    },
+    {
+      "id": "6987210652499309e960edd7",
+      "name": "Uncategorized",
+      "slug": "uncategorized",
+      "icon": "📁",
+      "description": "Documents without a specific category",
+      "total_items": 0,
+      "endpoint": "/data/uncategorized.json",
+      "preview": []
+    },
+    {
+      "id": "69ad4cc04dbc18a5ff5eb297",
+      "name": "animal",
+      "slug": "animal",
+      "icon": "🐼",
+      "description": "Portraits and people-related drawings",
+      "total_items": 14,
+      "endpoint": "/data/animal.json",
+      "preview": [
+        {
+          "id": "69ad50064dbc18a5ff5eb31d",
+          "title": "raccoon",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965908/drawing-app/documents/fprydvsgt90vvekc2gxy.jpg"
+        },
+        {
+          "id": "69ad4fdd4dbc18a5ff5eb316",
+          "title": "dog",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965870/drawing-app/documents/z7hvdpyir5ayweefi5bn.jpg"
+        },
+        {
+          "id": "69ad4fb14dbc18a5ff5eb30f",
+          "title": "donkey",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965824/drawing-app/documents/vdbjn7yu1kqlegxhozql.jpg"
+        }
+      ]
+    },
+    {
+      "id": "69ad65ff9b1d0936d5ee148d",
+      "name": "space",
+      "slug": "space",
+      "icon": "🌌",
+      "description": "Portraits and people-related drawings",
+      "total_items": 15,
+      "endpoint": "/data/space.json",
+      "preview": [
+        {
+          "id": "69ad680b9b1d0936d5ee14f5",
+          "title": "Planet Landscape",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772972058/drawing-app/documents/kdlzjxqkri0qtalmblu2.jpg"
+        },
+        {
+          "id": "69ad67f09b1d0936d5ee14ee",
+          "title": "Space Rover",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772972028/drawing-app/documents/wrrqso2vwbwrewtihjsp.jpg"
+        },
+        {
+          "id": "69ad67d09b1d0936d5ee14e7",
+          "title": "Astronaut Helmet",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772972000/drawing-app/documents/r6fnpavqprg9adobzr4c.jpg"
+        }
+      ]
+    },
+    {
+      "id": "69ad866b4589594dd462a2f1",
+      "name": "birds",
+      "slug": "birds",
+      "icon": "🐦",
+      "description": "Portraits and people-related drawings",
+      "total_items": 14,
+      "endpoint": "/data/birds.json",
+      "preview": [
+        {
+          "id": "69ad88bb4589594dd462a352",
+          "title": "chick (Baby Chicken)",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980427/drawing-app/documents/fqebnjrq3caqz5zhrdgw.png"
+        },
+        {
+          "id": "69ad88954589594dd462a34b",
+          "title": "woodpecker",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980392/drawing-app/documents/jgzzjcisrpllbcszk1ys.png"
+        },
+        {
+          "id": "69ad88734589594dd462a344",
+          "title": "pigeon",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980355/drawing-app/documents/yfxhsqpk73k22hywnorw.jpg"
+        }
+      ]
+    },
+    {
+      "id": "69b41a1f87b04202354310b3",
+      "name": "Flowers & Plants",
+      "slug": "flowers-plants",
+      "icon": "🌼",
+      "description": "Portraits and people-related drawings",
+      "total_items": 10,
+      "endpoint": "/data/flowers-plants.json",
+      "preview": [
+        {
+          "id": "69b41dee87b04202354310f7",
+          "title": "Tulip",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411836/drawing-app/documents/ajcv9mzwkyuxkwwwhpfg.jpg"
+        },
+        {
+          "id": "69b41da087b04202354310f0",
+          "title": "Orchid",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411757/drawing-app/documents/mytltwn0hnk9b4tcq7or.jpg"
+        },
+        {
+          "id": "69b41d8387b04202354310e9",
+          "title": "Cactus",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411731/drawing-app/documents/mdgoguoiptlzzkknwmkl.jpg"
+        }
+      ]
+    },
+    {
+      "id": "69b4214487b04202354310ff",
+      "name": "Objects / Everyday Things",
+      "slug": "objects-everyday-things",
+      "icon": "🏠",
+      "description": "Portraits and people-related drawings",
+      "total_items": 11,
+      "endpoint": "/data/objects-everyday-things.json",
+      "preview": [
+        {
+          "id": "69b422fd87b042023543114b",
+          "title": "Water Bottle",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773413131/drawing-app/documents/t6tru9n6artw4vxhgcmf.jpg"
+        },
+        {
+          "id": "69b422e087b0420235431144",
+          "title": "Soccer Ball",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773413102/drawing-app/documents/slxlocst4mchpmmxb4ta.jpg"
+        },
+        {
+          "id": "69b4229887b042023543113d",
+          "title": "Table Lamp",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773413043/drawing-app/documents/jjitq7xlovvijzurxhmk.jpg"
+        }
+      ]
+    },
+    {
+      "id": "69b4266f87b0420235431153",
+      "name": "Sports",
+      "slug": "sports",
+      "icon": "⚽",
+      "description": "Portraits and people-related drawings",
+      "total_items": 10,
+      "endpoint": "/data/sports.json",
+      "preview": [
+        {
+          "id": "69b4284187b0420235431197",
+          "title": "Trophy Cup",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414479/drawing-app/documents/drdx4xzylonmlih1nxqc.jpg"
+        },
+        {
+          "id": "69b4282787b0420235431190",
+          "title": "Tennis Racket",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414450/drawing-app/documents/hlhx9zcxgij90rb2sezx.jpg"
+        },
+        {
+          "id": "69b4280b87b0420235431189",
+          "title": "Skateboard",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414425/drawing-app/documents/axyfcdqyotagekyw6btf.jpg"
+        }
+      ]
+    },
+    {
+      "id": "69cd2cca973a133fae50751d",
+      "name": "Fantasy Characters",
+      "slug": "fantasy-characters",
+      "icon": "🧙‍♂️",
+      "description": "Portraits and people-related drawings",
+      "total_items": 12,
+      "endpoint": "/data/fantasy-characters.json",
+      "preview": [
+        {
+          "id": "69cd2f4e973a133fae50756f",
+          "title": "Necromancer",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054694/drawing-app/documents/ktahimvoxvxbjihjxcqy.jpg"
+        },
+        {
+          "id": "69cd2f34973a133fae507568",
+          "title": "Wizard Apprentice",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054660/drawing-app/documents/ftk4ucokcmu4vlastsfk.jpg"
+        },
+        {
+          "id": "69cd2f16973a133fae507561",
+          "title": "Orc Berserker",
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054631/drawing-app/documents/rmzvfmmwh20gcvjmaon3.jpg"
+        }
+      ]
+    }
+  ]
+}
