@@ -1,0 +1,15 @@
+{
+  "category": {
+    "id": "69ad65ff9b1d0936d5ee148d",
+    "name": "space",
+    "slug": "space"
+  },
+  "total": 15,
+  "pagination": {
+    "page_size": 50,
+    "total_pages": 1
+  },
+  "pages": [
+    "/data/space/page-1.json"
+  ]
+}
