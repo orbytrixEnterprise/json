@@ -1,0 +1,15 @@
+{
+  "category": {
+    "id": "6968fbb47f70a968cc7dc582",
+    "name": "vehicle",
+    "slug": "vehicle"
+  },
+  "total": 13,
+  "pagination": {
+    "page_size": 50,
+    "total_pages": 1
+  },
+  "pages": [
+    "/data/vehicle/page-1.json"
+  ]
+}
