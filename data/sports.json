@@ -1,0 +1,15 @@
+{
+  "category": {
+    "id": "69b4266f87b0420235431153",
+    "name": "Sports",
+    "slug": "sports"
+  },
+  "total": 10,
+  "pagination": {
+    "page_size": 50,
+    "total_pages": 1
+  },
+  "pages": [
+    "/data/sports/page-1.json"
+  ]
+}
