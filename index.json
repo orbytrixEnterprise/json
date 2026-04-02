@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-04-02T15:42:26.395Z",
+  "endpoints": {
+    "categories": "/categories.json",
+    "config": "/config/app-config.json"
+  }
+}
