@@ -1,0 +1,2523 @@
+{
+  "generated_at": "2026-04-02T15:49:57.308Z",
+  "total_categories": 10,
+  "total_documents": 121,
+  "data": [
+    {
+      "id": "6968f7437f70a968cc7dc4c1",
+      "name": "anime",
+      "slug": "anime",
+      "icon": "👤",
+      "description": "all anime character",
+      "total_items": 22,
+      "documents": [
+        {
+          "id": "6968f93e7f70a968cc7dc51d",
+          "title": "anime-girl",
+          "description": "anime-girl",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968f9a07f70a968cc7dc529",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487327/drawing-app/documents/f761vnbu44o0esfqaigc.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487327/drawing-app/documents/f761vnbu44o0esfqaigc.jpg",
+          "createdAt": "2026-01-15T14:27:10.671Z",
+          "updatedAt": "2026-01-15T14:28:48.113Z"
+        },
+        {
+          "id": "6968f92e7f70a968cc7dc519",
+          "title": "school-girl",
+          "description": "school-girl",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968f9b57f70a968cc7dc52c",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487348/drawing-app/documents/xckafq6mttnpwdyzsowe.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487348/drawing-app/documents/xckafq6mttnpwdyzsowe.jpg",
+          "createdAt": "2026-01-15T14:26:54.041Z",
+          "updatedAt": "2026-01-15T14:29:09.592Z"
+        },
+        {
+          "id": "6968f9257f70a968cc7dc515",
+          "title": "goku",
+          "description": "goku",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968f9ce7f70a968cc7dc52f",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487374/drawing-app/documents/blshqll5t6b14tad5mj3.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487374/drawing-app/documents/blshqll5t6b14tad5mj3.jpg",
+          "createdAt": "2026-01-15T14:26:45.605Z",
+          "updatedAt": "2026-01-15T14:29:34.826Z"
+        },
+        {
+          "id": "6968f9157f70a968cc7dc511",
+          "title": "vegita",
+          "description": "vegita",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968f9e17f70a968cc7dc532",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487392/drawing-app/documents/sj9mf4yemkhar7n0ka5v.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487392/drawing-app/documents/sj9mf4yemkhar7n0ka5v.jpg",
+          "createdAt": "2026-01-15T14:26:29.696Z",
+          "updatedAt": "2026-01-15T14:29:53.112Z"
+        },
+        {
+          "id": "6968f90a7f70a968cc7dc50d",
+          "title": "gohan",
+          "description": "gohan",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968f9f57f70a968cc7dc535",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487412/drawing-app/documents/vkhfbmzmzeqmmqxvhiqx.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487412/drawing-app/documents/vkhfbmzmzeqmmqxvhiqx.jpg",
+          "createdAt": "2026-01-15T14:26:18.856Z",
+          "updatedAt": "2026-01-15T14:30:13.133Z"
+        },
+        {
+          "id": "6968f9017f70a968cc7dc509",
+          "title": "saitama",
+          "description": "saitama",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fa107f70a968cc7dc538",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487439/drawing-app/documents/cxhrxspqzl65sxwk51rp.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487439/drawing-app/documents/cxhrxspqzl65sxwk51rp.jpg",
+          "createdAt": "2026-01-15T14:26:09.336Z",
+          "updatedAt": "2026-01-15T14:30:40.361Z"
+        },
+        {
+          "id": "6968f8f57f70a968cc7dc505",
+          "title": "Sukuna",
+          "description": "Sukuna",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fa317f70a968cc7dc53b",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487472/drawing-app/documents/a5jx9szv1zfbzv7di0rx.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487472/drawing-app/documents/a5jx9szv1zfbzv7di0rx.jpg",
+          "createdAt": "2026-01-15T14:25:57.437Z",
+          "updatedAt": "2026-01-15T14:31:13.794Z"
+        },
+        {
+          "id": "6968f8ec7f70a968cc7dc501",
+          "title": "gojo",
+          "description": "gojo",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fa487f70a968cc7dc53e",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487495/drawing-app/documents/gouw8tujtnhdbggqogo3.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487495/drawing-app/documents/gouw8tujtnhdbggqogo3.jpg",
+          "createdAt": "2026-01-15T14:25:48.059Z",
+          "updatedAt": "2026-01-15T14:31:36.408Z"
+        },
+        {
+          "id": "6968f8de7f70a968cc7dc4fd",
+          "title": "Gon-HxH",
+          "description": "Gon-HxH",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fa5e7f70a968cc7dc541",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487518/drawing-app/documents/dwt7f5yxupunvuhqsrfd.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487518/drawing-app/documents/dwt7f5yxupunvuhqsrfd.jpg",
+          "createdAt": "2026-01-15T14:25:34.791Z",
+          "updatedAt": "2026-01-15T14:31:58.893Z"
+        },
+        {
+          "id": "6968f8d37f70a968cc7dc4f9",
+          "title": "Kilua",
+          "description": "Kilua",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fa737f70a968cc7dc544",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487538/drawing-app/documents/hh5du0ktslgjdqbxwyqu.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487538/drawing-app/documents/hh5du0ktslgjdqbxwyqu.jpg",
+          "createdAt": "2026-01-15T14:25:23.555Z",
+          "updatedAt": "2026-01-15T14:32:19.102Z"
+        },
+        {
+          "id": "6968f8c67f70a968cc7dc4f5",
+          "title": "yuji",
+          "description": "yuji",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fa827f70a968cc7dc547",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487553/drawing-app/documents/kwyqp5h4npagcdtmgii2.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487553/drawing-app/documents/kwyqp5h4npagcdtmgii2.jpg",
+          "createdAt": "2026-01-15T14:25:10.438Z",
+          "updatedAt": "2026-01-15T14:32:34.052Z"
+        },
+        {
+          "id": "6968f8bc7f70a968cc7dc4f1",
+          "title": "Guts",
+          "description": "Guts",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fa997f70a968cc7dc54a",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487576/drawing-app/documents/fszjkjtmkgi4rbgxfh7z.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487576/drawing-app/documents/fszjkjtmkgi4rbgxfh7z.jpg",
+          "createdAt": "2026-01-15T14:25:00.661Z",
+          "updatedAt": "2026-01-15T14:32:57.472Z"
+        },
+        {
+          "id": "6968f8aa7f70a968cc7dc4ed",
+          "title": "Griffith",
+          "description": "Griffith",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968faae7f70a968cc7dc54d",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487597/drawing-app/documents/hegywgi1yo3yogqhcojn.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487597/drawing-app/documents/hegywgi1yo3yogqhcojn.jpg",
+          "createdAt": "2026-01-15T14:24:42.753Z",
+          "updatedAt": "2026-01-15T14:33:18.131Z"
+        },
+        {
+          "id": "6968f8977f70a968cc7dc4e9",
+          "title": "Skull-night",
+          "description": "Skull-night",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fabf7f70a968cc7dc550",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487614/drawing-app/documents/jjqixqwtbj7uhxbkquwk.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487614/drawing-app/documents/jjqixqwtbj7uhxbkquwk.jpg",
+          "createdAt": "2026-01-15T14:24:23.826Z",
+          "updatedAt": "2026-01-15T14:33:35.629Z"
+        },
+        {
+          "id": "6968f88b7f70a968cc7dc4e5",
+          "title": "Levi",
+          "description": "Levi",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968facd7f70a968cc7dc553",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487629/drawing-app/documents/halikssfnzxnxhh7qihd.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487629/drawing-app/documents/halikssfnzxnxhh7qihd.jpg",
+          "createdAt": "2026-01-15T14:24:11.103Z",
+          "updatedAt": "2026-01-15T14:33:49.928Z"
+        },
+        {
+          "id": "6968f8737f70a968cc7dc4e1",
+          "title": "Eren-Yeager",
+          "description": "Eren-Yeager",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fade7f70a968cc7dc556",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487646/drawing-app/documents/dzi3japdd4qkngx9lkxz.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487646/drawing-app/documents/dzi3japdd4qkngx9lkxz.jpg",
+          "createdAt": "2026-01-15T14:23:47.972Z",
+          "updatedAt": "2026-01-15T14:34:06.663Z"
+        },
+        {
+          "id": "6968f8677f70a968cc7dc4dd",
+          "title": "ayanokoji-kiyotaka",
+          "description": "ayanokoji-kiyotaka",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968faf17f70a968cc7dc559",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487664/drawing-app/documents/efny2nxoiifeq2rde0dg.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487664/drawing-app/documents/efny2nxoiifeq2rde0dg.jpg",
+          "createdAt": "2026-01-15T14:23:35.379Z",
+          "updatedAt": "2026-01-15T14:34:25.549Z"
+        },
+        {
+          "id": "6968f85a7f70a968cc7dc4d9",
+          "title": "hachiman-hikigaya",
+          "description": "hachiman-hikigaya",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fb027f70a968cc7dc55c",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487681/drawing-app/documents/aw9m3frszvtuvmddu6xm.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487681/drawing-app/documents/aw9m3frszvtuvmddu6xm.jpg",
+          "createdAt": "2026-01-15T14:23:22.925Z",
+          "updatedAt": "2026-01-15T14:34:42.787Z"
+        },
+        {
+          "id": "6968f84c7f70a968cc7dc4d5",
+          "title": "Natsuki-subaru",
+          "description": "Natsuki-subaru",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fb1c7f70a968cc7dc55f",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487707/drawing-app/documents/ye6rlvuspn5u3a9iaqbv.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487707/drawing-app/documents/ye6rlvuspn5u3a9iaqbv.jpg",
+          "createdAt": "2026-01-15T14:23:08.491Z",
+          "updatedAt": "2026-01-15T14:35:08.399Z"
+        },
+        {
+          "id": "6968f8397f70a968cc7dc4d1",
+          "title": "Reinhard-Van-Astrea",
+          "description": "Reinhard-Van-Astrea",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fb2b7f70a968cc7dc562",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487722/drawing-app/documents/f8zgaagjvotb6zhsunck.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487722/drawing-app/documents/f8zgaagjvotb6zhsunck.jpg",
+          "createdAt": "2026-01-15T14:22:49.877Z",
+          "updatedAt": "2026-01-15T14:35:23.546Z"
+        },
+        {
+          "id": "6968f7f47f70a968cc7dc4cd",
+          "title": "Picolo",
+          "description": "Picolo",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fb3b7f70a968cc7dc565",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487739/drawing-app/documents/njyivgamodyqjvbsuuyr.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768487739/drawing-app/documents/njyivgamodyqjvbsuuyr.jpg",
+          "createdAt": "2026-01-15T14:21:40.441Z",
+          "updatedAt": "2026-01-15T14:35:39.972Z"
+        },
+        {
+          "id": "6968f77e7f70a968cc7dc4c6",
+          "title": "naruto",
+          "description": "A famous charcter from naruto anime",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968f7b87f70a968cc7dc4ca",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768486839/drawing-app/documents/gwwyxyxuvm0wh9pilqon.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768486839/drawing-app/documents/gwwyxyxuvm0wh9pilqon.jpg",
+          "createdAt": "2026-01-15T14:19:42.307Z",
+          "updatedAt": "2026-01-15T14:20:40.528Z"
+        }
+      ]
+    },
+    {
+      "id": "6968fbb47f70a968cc7dc582",
+      "name": "vehicle",
+      "slug": "vehicle",
+      "icon": "🚗",
+      "description": "diffrent diffrent vehicle",
+      "total_items": 13,
+      "documents": [
+        {
+          "id": "6968fd137f70a968cc7dc5b7",
+          "title": "Tesla-Model-S",
+          "description": "Tesla-Model-S",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fd557f70a968cc7dc5be",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488277/drawing-app/documents/l8kgmmf0occlkxs4ctfh.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488277/drawing-app/documents/l8kgmmf0occlkxs4ctfh.jpg",
+          "createdAt": "2026-01-15T14:43:31.338Z",
+          "updatedAt": "2026-01-15T14:44:37.677Z"
+        },
+        {
+          "id": "6968fd047f70a968cc7dc5b3",
+          "title": "Lamborghini-Aventador",
+          "description": "Lamborghini-Aventador",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fd657f70a968cc7dc5c1",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488292/drawing-app/documents/pgacz6ij7s07blg8irl1.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488292/drawing-app/documents/pgacz6ij7s07blg8irl1.jpg",
+          "createdAt": "2026-01-15T14:43:16.650Z",
+          "updatedAt": "2026-01-15T14:44:53.442Z"
+        },
+        {
+          "id": "6968fcf57f70a968cc7dc5af",
+          "title": "Bugatti-Chiron",
+          "description": "Bugatti-Chiron",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fd777f70a968cc7dc5c4",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488310/drawing-app/documents/dqqtv5atjeil6o3r1wp6.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488310/drawing-app/documents/dqqtv5atjeil6o3r1wp6.jpg",
+          "createdAt": "2026-01-15T14:43:01.901Z",
+          "updatedAt": "2026-01-15T14:45:11.170Z"
+        },
+        {
+          "id": "6968fce77f70a968cc7dc5ab",
+          "title": "Ferrari-488-GTB",
+          "description": "Ferrari-488-GTB",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fd857f70a968cc7dc5c7",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488325/drawing-app/documents/do2sd4f0lhfutjqm6fjp.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488325/drawing-app/documents/do2sd4f0lhfutjqm6fjp.jpg",
+          "createdAt": "2026-01-15T14:42:47.727Z",
+          "updatedAt": "2026-01-15T14:45:25.597Z"
+        },
+        {
+          "id": "6968fcd67f70a968cc7dc5a7",
+          "title": "Toyota-Supra-MK4",
+          "description": "Toyota-Supra-MK4",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fd9d7f70a968cc7dc5ca",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488348/drawing-app/documents/w9epyhkbupj5gztnaeqy.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488348/drawing-app/documents/w9epyhkbupj5gztnaeqy.jpg",
+          "createdAt": "2026-01-15T14:42:30.216Z",
+          "updatedAt": "2026-01-15T14:45:49.260Z"
+        },
+        {
+          "id": "6968fc9b7f70a968cc7dc5a3",
+          "title": "Nissan-GT-R-R35",
+          "description": "Nissan-GT-R-R35",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fdb47f70a968cc7dc5cd",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488371/drawing-app/documents/gojlre4scwxarfbbwjhn.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488371/drawing-app/documents/gojlre4scwxarfbbwjhn.jpg",
+          "createdAt": "2026-01-15T14:41:31.704Z",
+          "updatedAt": "2026-01-15T14:46:12.482Z"
+        },
+        {
+          "id": "6968fc5b7f70a968cc7dc59f",
+          "title": "Ford-Mustang",
+          "description": "Ford-Mustang",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fdca7f70a968cc7dc5d0",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488393/drawing-app/documents/b1mnldlbq7rahpjmhv4q.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488393/drawing-app/documents/b1mnldlbq7rahpjmhv4q.jpg",
+          "createdAt": "2026-01-15T14:40:27.139Z",
+          "updatedAt": "2026-01-15T14:46:34.162Z"
+        },
+        {
+          "id": "6968fc4b7f70a968cc7dc59b",
+          "title": "Porsche-911",
+          "description": "Porsche-911",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fde37f70a968cc7dc5d3",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488418/drawing-app/documents/ltskjenn56ulcg0xblms.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488418/drawing-app/documents/ltskjenn56ulcg0xblms.jpg",
+          "createdAt": "2026-01-15T14:40:11.223Z",
+          "updatedAt": "2026-01-15T14:46:59.497Z"
+        },
+        {
+          "id": "6968fc377f70a968cc7dc597",
+          "title": "Kawasaki-Ninja-ZX-10R",
+          "description": "Kawasaki-Ninja-ZX-10R",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fdfa7f70a968cc7dc5d6",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488442/drawing-app/documents/wdmtxe09loxzf4am8uzd.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488442/drawing-app/documents/wdmtxe09loxzf4am8uzd.jpg",
+          "createdAt": "2026-01-15T14:39:51.592Z",
+          "updatedAt": "2026-01-15T14:47:22.735Z"
+        },
+        {
+          "id": "6968fc297f70a968cc7dc593",
+          "title": "Yamaha-R15",
+          "description": "Yamaha-R15",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fe0c7f70a968cc7dc5d9",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488459/drawing-app/documents/xj4x8lfroouy5yxpdits.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488459/drawing-app/documents/xj4x8lfroouy5yxpdits.jpg",
+          "createdAt": "2026-01-15T14:39:37.536Z",
+          "updatedAt": "2026-01-15T14:47:40.191Z"
+        },
+        {
+          "id": "6968fc177f70a968cc7dc58f",
+          "title": "Ducati-Panigale-V4",
+          "description": "Ducati-Panigale-V4",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fe257f70a968cc7dc5dc",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488484/drawing-app/documents/pwchr5cq7vidfr937gxh.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488484/drawing-app/documents/pwchr5cq7vidfr937gxh.jpg",
+          "createdAt": "2026-01-15T14:39:19.969Z",
+          "updatedAt": "2026-01-15T14:48:05.154Z"
+        },
+        {
+          "id": "6968fbf77f70a968cc7dc58b",
+          "title": "Royal-Enfield-Classic-350",
+          "description": "Royal-Enfield-Classic-350",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fe3b7f70a968cc7dc5df",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488506/drawing-app/documents/f4poh2nn5qi8dtyw7bdc.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488506/drawing-app/documents/f4poh2nn5qi8dtyw7bdc.jpg",
+          "createdAt": "2026-01-15T14:38:47.008Z",
+          "updatedAt": "2026-01-15T14:48:27.102Z"
+        },
+        {
+          "id": "6968fbe97f70a968cc7dc587",
+          "title": "City-Bus",
+          "description": "City-Bus",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "6968fe537f70a968cc7dc5e2",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488530/drawing-app/documents/tqebjsrtmdgbsayvw6ay.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1768488530/drawing-app/documents/tqebjsrtmdgbsayvw6ay.jpg",
+          "createdAt": "2026-01-15T14:38:33.302Z",
+          "updatedAt": "2026-01-15T14:48:51.069Z"
+        }
+      ]
+    },
+    {
+      "id": "6987210652499309e960edd7",
+      "name": "Uncategorized",
+      "slug": "uncategorized",
+      "icon": "📁",
+      "description": "Documents without a specific category",
+      "total_items": 0,
+      "documents": []
+    },
+    {
+      "id": "69ad4cc04dbc18a5ff5eb297",
+      "name": "animal",
+      "slug": "animal",
+      "icon": "🐼",
+      "description": "Portraits and people-related drawings",
+      "total_items": 14,
+      "documents": [
+        {
+          "id": "69ad50064dbc18a5ff5eb31d",
+          "title": "raccoon",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad50154dbc18a5ff5eb321",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965908/drawing-app/documents/fprydvsgt90vvekc2gxy.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965908/drawing-app/documents/fprydvsgt90vvekc2gxy.jpg",
+          "createdAt": "2026-03-08T10:31:34.768Z",
+          "updatedAt": "2026-03-08T10:31:49.180Z"
+        },
+        {
+          "id": "69ad4fdd4dbc18a5ff5eb316",
+          "title": "dog",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad4fef4dbc18a5ff5eb31a",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965870/drawing-app/documents/z7hvdpyir5ayweefi5bn.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965870/drawing-app/documents/z7hvdpyir5ayweefi5bn.jpg",
+          "createdAt": "2026-03-08T10:30:53.277Z",
+          "updatedAt": "2026-03-08T10:31:11.195Z"
+        },
+        {
+          "id": "69ad4fb14dbc18a5ff5eb30f",
+          "title": "donkey",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad4fc04dbc18a5ff5eb313",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965824/drawing-app/documents/vdbjn7yu1kqlegxhozql.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965824/drawing-app/documents/vdbjn7yu1kqlegxhozql.jpg",
+          "createdAt": "2026-03-08T10:30:09.471Z",
+          "updatedAt": "2026-03-08T10:30:24.867Z"
+        },
+        {
+          "id": "69ad4f8a4dbc18a5ff5eb308",
+          "title": "Giraffe",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad4f9b4dbc18a5ff5eb30c",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965787/drawing-app/documents/unblhilalpwsvbpkqqnf.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965787/drawing-app/documents/unblhilalpwsvbpkqqnf.jpg",
+          "createdAt": "2026-03-08T10:29:30.708Z",
+          "updatedAt": "2026-03-08T10:29:47.623Z"
+        },
+        {
+          "id": "69ad4f564dbc18a5ff5eb301",
+          "title": "zebra",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad4f654dbc18a5ff5eb305",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965732/drawing-app/documents/cpkiazsnf4rfcs77olpa.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965732/drawing-app/documents/cpkiazsnf4rfcs77olpa.jpg",
+          "createdAt": "2026-03-08T10:28:38.208Z",
+          "updatedAt": "2026-03-08T10:28:53.012Z"
+        },
+        {
+          "id": "69ad4f294dbc18a5ff5eb2fa",
+          "title": "elephant",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad4f394dbc18a5ff5eb2fe",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965688/drawing-app/documents/hr6pcco1s4l9kyik99ur.png",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965688/drawing-app/documents/hr6pcco1s4l9kyik99ur.png",
+          "createdAt": "2026-03-08T10:27:53.177Z",
+          "updatedAt": "2026-03-08T10:28:09.557Z"
+        },
+        {
+          "id": "69ad4f044dbc18a5ff5eb2f3",
+          "title": "tiger",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad4f174dbc18a5ff5eb2f7",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965654/drawing-app/documents/zzouj805lxbhzfx3zltg.png",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965654/drawing-app/documents/zzouj805lxbhzfx3zltg.png",
+          "createdAt": "2026-03-08T10:27:16.751Z",
+          "updatedAt": "2026-03-08T10:27:35.001Z"
+        },
+        {
+          "id": "69ad4ee04dbc18a5ff5eb2ec",
+          "title": "penguin",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad4ef14dbc18a5ff5eb2f0",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965616/drawing-app/documents/dffnx2hw0jm9lkndr8jh.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965616/drawing-app/documents/dffnx2hw0jm9lkndr8jh.jpg",
+          "createdAt": "2026-03-08T10:26:40.819Z",
+          "updatedAt": "2026-03-08T10:26:57.380Z"
+        },
+        {
+          "id": "69ad4e9a4dbc18a5ff5eb2e5",
+          "title": "rebbit",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad4ec64dbc18a5ff5eb2e9",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965573/drawing-app/documents/sjqeeoccrywak1otk6im.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965573/drawing-app/documents/sjqeeoccrywak1otk6im.jpg",
+          "createdAt": "2026-03-08T10:25:30.012Z",
+          "updatedAt": "2026-03-08T10:26:14.063Z"
+        },
+        {
+          "id": "69ad4e6b4dbc18a5ff5eb2de",
+          "title": "cow",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad4e7c4dbc18a5ff5eb2e2",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965500/drawing-app/documents/qy63pdb6cqn2jj9piddv.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965500/drawing-app/documents/qy63pdb6cqn2jj9piddv.jpg",
+          "createdAt": "2026-03-08T10:24:43.191Z",
+          "updatedAt": "2026-03-08T10:25:00.754Z"
+        },
+        {
+          "id": "69ad4e494dbc18a5ff5eb2d7",
+          "title": "turtle",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad4e584dbc18a5ff5eb2db",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965464/drawing-app/documents/f7ditksnfu9jhi4cdaah.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965464/drawing-app/documents/f7ditksnfu9jhi4cdaah.jpg",
+          "createdAt": "2026-03-08T10:24:09.228Z",
+          "updatedAt": "2026-03-08T10:24:24.948Z"
+        },
+        {
+          "id": "69ad4e114dbc18a5ff5eb2d0",
+          "title": "kangaroo",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad4e234dbc18a5ff5eb2d4",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965410/drawing-app/documents/obtnz20m4hwva7uterod.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965410/drawing-app/documents/obtnz20m4hwva7uterod.jpg",
+          "createdAt": "2026-03-08T10:23:13.707Z",
+          "updatedAt": "2026-03-08T10:23:31.590Z"
+        },
+        {
+          "id": "69ad4dc94dbc18a5ff5eb2c9",
+          "title": "monkey",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad4de44dbc18a5ff5eb2cd",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965347/drawing-app/documents/cm6n62ilocpolzbhhwrg.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965347/drawing-app/documents/cm6n62ilocpolzbhhwrg.jpg",
+          "createdAt": "2026-03-08T10:22:01.698Z",
+          "updatedAt": "2026-03-08T10:22:28.152Z"
+        },
+        {
+          "id": "69ad4d254dbc18a5ff5eb2c2",
+          "title": "panda",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad4d784dbc18a5ff5eb2c6",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965239/drawing-app/documents/uhgilr3boz3knboxzh3m.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772965239/drawing-app/documents/uhgilr3boz3knboxzh3m.jpg",
+          "createdAt": "2026-03-08T10:19:17.191Z",
+          "updatedAt": "2026-03-08T10:20:40.216Z"
+        }
+      ]
+    },
+    {
+      "id": "69ad65ff9b1d0936d5ee148d",
+      "name": "space",
+      "slug": "space",
+      "icon": "🌌",
+      "description": "Portraits and people-related drawings",
+      "total_items": 15,
+      "documents": [
+        {
+          "id": "69ad680b9b1d0936d5ee14f5",
+          "title": "Planet Landscape",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad681a9b1d0936d5ee14f9",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772972058/drawing-app/documents/kdlzjxqkri0qtalmblu2.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772972058/drawing-app/documents/kdlzjxqkri0qtalmblu2.jpg",
+          "createdAt": "2026-03-08T12:14:03.587Z",
+          "updatedAt": "2026-03-08T12:14:18.835Z"
+        },
+        {
+          "id": "69ad67f09b1d0936d5ee14ee",
+          "title": "Space Rover",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad67fd9b1d0936d5ee14f2",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772972028/drawing-app/documents/wrrqso2vwbwrewtihjsp.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772972028/drawing-app/documents/wrrqso2vwbwrewtihjsp.jpg",
+          "createdAt": "2026-03-08T12:13:36.003Z",
+          "updatedAt": "2026-03-08T12:13:49.286Z"
+        },
+        {
+          "id": "69ad67d09b1d0936d5ee14e7",
+          "title": "Astronaut Helmet",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad67e09b1d0936d5ee14eb",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772972000/drawing-app/documents/r6fnpavqprg9adobzr4c.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772972000/drawing-app/documents/r6fnpavqprg9adobzr4c.jpg",
+          "createdAt": "2026-03-08T12:13:04.638Z",
+          "updatedAt": "2026-03-08T12:13:20.828Z"
+        },
+        {
+          "id": "69ad67b29b1d0936d5ee14e0",
+          "title": "Satellite",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad67c09b1d0936d5ee14e4",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971968/drawing-app/documents/muh4jhgiyaghz6ufnumd.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971968/drawing-app/documents/muh4jhgiyaghz6ufnumd.jpg",
+          "createdAt": "2026-03-08T12:12:34.548Z",
+          "updatedAt": "2026-03-08T12:12:48.573Z"
+        },
+        {
+          "id": "69ad67879b1d0936d5ee14d9",
+          "title": "Comet",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad67989b1d0936d5ee14dd",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971927/drawing-app/documents/f6ib8ztymjokwi6xrpwh.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971927/drawing-app/documents/f6ib8ztymjokwi6xrpwh.jpg",
+          "createdAt": "2026-03-08T12:11:51.437Z",
+          "updatedAt": "2026-03-08T12:12:08.511Z"
+        },
+        {
+          "id": "69ad676e9b1d0936d5ee14d2",
+          "title": "Space Shuttle",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad677a9b1d0936d5ee14d6",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971898/drawing-app/documents/s0yazsebhsitlrzsz3jx.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971898/drawing-app/documents/s0yazsebhsitlrzsz3jx.jpg",
+          "createdAt": "2026-03-08T12:11:26.515Z",
+          "updatedAt": "2026-03-08T12:11:38.771Z"
+        },
+        {
+          "id": "69ad674f9b1d0936d5ee14cb",
+          "title": "Smiling Sun",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad675a9b1d0936d5ee14cf",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971866/drawing-app/documents/ptkv3hxszpjejdsn28e2.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971866/drawing-app/documents/ptkv3hxszpjejdsn28e2.jpg",
+          "createdAt": "2026-03-08T12:10:55.053Z",
+          "updatedAt": "2026-03-08T12:11:06.835Z"
+        },
+        {
+          "id": "69ad671a9b1d0936d5ee14c4",
+          "title": "Galaxy Spiral",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad673b9b1d0936d5ee14c8",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971834/drawing-app/documents/nu5h7zzmer4mil3ig72x.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971834/drawing-app/documents/nu5h7zzmer4mil3ig72x.jpg",
+          "createdAt": "2026-03-08T12:10:02.739Z",
+          "updatedAt": "2026-03-08T12:10:35.381Z"
+        },
+        {
+          "id": "69ad66fb9b1d0936d5ee14bc",
+          "title": "Star Cluster",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [],
+          "image": null,
+          "createdAt": "2026-03-08T12:09:31.158Z",
+          "updatedAt": "2026-03-08T12:09:31.158Z"
+        },
+        {
+          "id": "69ad66de9b1d0936d5ee14b5",
+          "title": "Crescent Moon",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad66ec9b1d0936d5ee14b9",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971755/drawing-app/documents/xoh1dm8a61sn6qw5gzgp.jpg",
+              "order": 1
+            },
+            {
+              "id": "69ad670c9b1d0936d5ee14c1",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971788/drawing-app/documents/bt7ugdaw2rej61nmkhe2.jpg",
+              "order": 2
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971755/drawing-app/documents/xoh1dm8a61sn6qw5gzgp.jpg",
+          "createdAt": "2026-03-08T12:09:02.700Z",
+          "updatedAt": "2026-03-08T12:09:48.641Z"
+        },
+        {
+          "id": "69ad66c49b1d0936d5ee14ae",
+          "title": "Planet with Rings",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad66d19b1d0936d5ee14b2",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971728/drawing-app/documents/fbvmuuk0habtwtdcu6ls.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971728/drawing-app/documents/fbvmuuk0habtwtdcu6ls.jpg",
+          "createdAt": "2026-03-08T12:08:36.094Z",
+          "updatedAt": "2026-03-08T12:08:49.554Z"
+        },
+        {
+          "id": "69ad66a29b1d0936d5ee14a7",
+          "title": "Alien",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad66b19b1d0936d5ee14ab",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971697/drawing-app/documents/sbnb8bwua5kuzxtnfrwn.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971697/drawing-app/documents/sbnb8bwua5kuzxtnfrwn.jpg",
+          "createdAt": "2026-03-08T12:08:02.428Z",
+          "updatedAt": "2026-03-08T12:08:17.858Z"
+        },
+        {
+          "id": "69ad66899b1d0936d5ee14a0",
+          "title": "ufo",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad66979b1d0936d5ee14a4",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971670/drawing-app/documents/k2ayji2waicfz96bwzd0.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971670/drawing-app/documents/k2ayji2waicfz96bwzd0.jpg",
+          "createdAt": "2026-03-08T12:07:37.140Z",
+          "updatedAt": "2026-03-08T12:07:51.024Z"
+        },
+        {
+          "id": "69ad66699b1d0936d5ee1499",
+          "title": "Astronaut",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad667b9b1d0936d5ee149d",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971642/drawing-app/documents/ftzne6qsbywsnlg1wmiq.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971642/drawing-app/documents/ftzne6qsbywsnlg1wmiq.jpg",
+          "createdAt": "2026-03-08T12:07:05.894Z",
+          "updatedAt": "2026-03-08T12:07:23.101Z"
+        },
+        {
+          "id": "69ad66439b1d0936d5ee1492",
+          "title": "rocket",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad665f9b1d0936d5ee1496",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971614/drawing-app/documents/kx6e5wjq12ncjffkhmog.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772971614/drawing-app/documents/kx6e5wjq12ncjffkhmog.jpg",
+          "createdAt": "2026-03-08T12:06:27.956Z",
+          "updatedAt": "2026-03-08T12:06:55.292Z"
+        }
+      ]
+    },
+    {
+      "id": "69ad866b4589594dd462a2f1",
+      "name": "birds",
+      "slug": "birds",
+      "icon": "🐦",
+      "description": "Portraits and people-related drawings",
+      "total_items": 14,
+      "documents": [
+        {
+          "id": "69ad88bb4589594dd462a352",
+          "title": "chick (Baby Chicken)",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad88cd4589594dd462a356",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980427/drawing-app/documents/fqebnjrq3caqz5zhrdgw.png",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980427/drawing-app/documents/fqebnjrq3caqz5zhrdgw.png",
+          "createdAt": "2026-03-08T14:33:31.463Z",
+          "updatedAt": "2026-03-08T14:33:49.423Z"
+        },
+        {
+          "id": "69ad88954589594dd462a34b",
+          "title": "woodpecker",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad88a94589594dd462a34f",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980392/drawing-app/documents/jgzzjcisrpllbcszk1ys.png",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980392/drawing-app/documents/jgzzjcisrpllbcszk1ys.png",
+          "createdAt": "2026-03-08T14:32:53.674Z",
+          "updatedAt": "2026-03-08T14:33:13.546Z"
+        },
+        {
+          "id": "69ad88734589594dd462a344",
+          "title": "pigeon",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad88844589594dd462a348",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980355/drawing-app/documents/yfxhsqpk73k22hywnorw.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980355/drawing-app/documents/yfxhsqpk73k22hywnorw.jpg",
+          "createdAt": "2026-03-08T14:32:19.479Z",
+          "updatedAt": "2026-03-08T14:32:36.629Z"
+        },
+        {
+          "id": "69ad884a4589594dd462a33d",
+          "title": "swan",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad885f4589594dd462a341",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980319/drawing-app/documents/j6ytsvrcxjhze0v8xufw.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980319/drawing-app/documents/j6ytsvrcxjhze0v8xufw.jpg",
+          "createdAt": "2026-03-08T14:31:38.409Z",
+          "updatedAt": "2026-03-08T14:31:59.750Z"
+        },
+        {
+          "id": "69ad88274589594dd462a336",
+          "title": "toucan",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad88394589594dd462a33a",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980280/drawing-app/documents/vdetnfzeu9pfveqhybx6.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980280/drawing-app/documents/vdetnfzeu9pfveqhybx6.jpg",
+          "createdAt": "2026-03-08T14:31:03.301Z",
+          "updatedAt": "2026-03-08T14:31:21.263Z"
+        },
+        {
+          "id": "69ad88044589594dd462a32f",
+          "title": "sparrow",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad88164589594dd462a333",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980245/drawing-app/documents/ilefpetyg64hxpff3nyh.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980245/drawing-app/documents/ilefpetyg64hxpff3nyh.jpg",
+          "createdAt": "2026-03-08T14:30:28.576Z",
+          "updatedAt": "2026-03-08T14:30:46.434Z"
+        },
+        {
+          "id": "69ad87d74589594dd462a328",
+          "title": "duck",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad87ea4589594dd462a32c",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980201/drawing-app/documents/qih4hwqse0taarmtgmgz.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980201/drawing-app/documents/qih4hwqse0taarmtgmgz.jpg",
+          "createdAt": "2026-03-08T14:29:43.137Z",
+          "updatedAt": "2026-03-08T14:30:02.620Z"
+        },
+        {
+          "id": "69ad87b34589594dd462a321",
+          "title": "eagle",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad87c54589594dd462a325",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980164/drawing-app/documents/rerw1ddrwikv9exzciir.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980164/drawing-app/documents/rerw1ddrwikv9exzciir.jpg",
+          "createdAt": "2026-03-08T14:29:07.579Z",
+          "updatedAt": "2026-03-08T14:29:25.638Z"
+        },
+        {
+          "id": "69ad878e4589594dd462a319",
+          "title": "owl",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [],
+          "image": null,
+          "createdAt": "2026-03-08T14:28:30.105Z",
+          "updatedAt": "2026-03-08T14:28:30.105Z"
+        },
+        {
+          "id": "69ad87634589594dd462a312",
+          "title": "Flamingo",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad87734589594dd462a316",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980082/drawing-app/documents/vc9qcowxucpf6hqlxfri.jpg",
+              "order": 1
+            },
+            {
+              "id": "69ad87a14589594dd462a31e",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980128/drawing-app/documents/pzxgiqkaek167jptz6rn.jpg",
+              "order": 2
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980082/drawing-app/documents/vc9qcowxucpf6hqlxfri.jpg",
+          "createdAt": "2026-03-08T14:27:47.908Z",
+          "updatedAt": "2026-03-08T14:28:49.490Z"
+        },
+        {
+          "id": "69ad87364589594dd462a30b",
+          "title": "parrot",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad87514589594dd462a30f",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980049/drawing-app/documents/xhmi1dkubsb7sa7curvq.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980049/drawing-app/documents/xhmi1dkubsb7sa7curvq.jpg",
+          "createdAt": "2026-03-08T14:27:02.850Z",
+          "updatedAt": "2026-03-08T14:27:29.873Z"
+        },
+        {
+          "id": "69ad87164589594dd462a304",
+          "title": "hummingbird",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad87284589594dd462a308",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980007/drawing-app/documents/n4sq7zdzkqfhplnk32pt.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980007/drawing-app/documents/n4sq7zdzkqfhplnk32pt.jpg",
+          "createdAt": "2026-03-08T14:26:30.608Z",
+          "updatedAt": "2026-03-08T14:26:48.031Z"
+        },
+        {
+          "id": "69ad86e94589594dd462a2fd",
+          "title": "crow",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad87054589594dd462a301",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772979972/drawing-app/documents/v8hy2rmdykkj1ndcw648.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772979972/drawing-app/documents/v8hy2rmdykkj1ndcw648.jpg",
+          "createdAt": "2026-03-08T14:25:45.892Z",
+          "updatedAt": "2026-03-08T14:26:13.620Z"
+        },
+        {
+          "id": "69ad868a4589594dd462a2f6",
+          "title": "Peacock",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ad86c34589594dd462a2fa",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772979906/drawing-app/documents/ltd2iw3h0orqsm5gbfk4.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772979906/drawing-app/documents/ltd2iw3h0orqsm5gbfk4.jpg",
+          "createdAt": "2026-03-08T14:24:10.206Z",
+          "updatedAt": "2026-03-08T14:25:07.471Z"
+        }
+      ]
+    },
+    {
+      "id": "69b41a1f87b04202354310b3",
+      "name": "Flowers & Plants",
+      "slug": "flowers-plants",
+      "icon": "🌼",
+      "description": "Portraits and people-related drawings",
+      "total_items": 10,
+      "documents": [
+        {
+          "id": "69b41dee87b04202354310f7",
+          "title": "Tulip",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b41dfd87b04202354310fb",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411836/drawing-app/documents/ajcv9mzwkyuxkwwwhpfg.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411836/drawing-app/documents/ajcv9mzwkyuxkwwwhpfg.jpg",
+          "createdAt": "2026-03-13T14:23:42.680Z",
+          "updatedAt": "2026-03-13T14:23:57.475Z"
+        },
+        {
+          "id": "69b41da087b04202354310f0",
+          "title": "Orchid",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b41daf87b04202354310f4",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411757/drawing-app/documents/mytltwn0hnk9b4tcq7or.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411757/drawing-app/documents/mytltwn0hnk9b4tcq7or.jpg",
+          "createdAt": "2026-03-13T14:22:24.644Z",
+          "updatedAt": "2026-03-13T14:22:39.751Z"
+        },
+        {
+          "id": "69b41d8387b04202354310e9",
+          "title": "Cactus",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b41d9487b04202354310ed",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411731/drawing-app/documents/mdgoguoiptlzzkknwmkl.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411731/drawing-app/documents/mdgoguoiptlzzkknwmkl.jpg",
+          "createdAt": "2026-03-13T14:21:55.075Z",
+          "updatedAt": "2026-03-13T14:22:12.205Z"
+        },
+        {
+          "id": "69b41d6487b04202354310e2",
+          "title": "Bamboo Plant",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b41d7187b04202354310e6",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411696/drawing-app/documents/rqosclmnuklyh6rsfesc.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411696/drawing-app/documents/rqosclmnuklyh6rsfesc.jpg",
+          "createdAt": "2026-03-13T14:21:24.049Z",
+          "updatedAt": "2026-03-13T14:21:37.512Z"
+        },
+        {
+          "id": "69b41d4487b04202354310db",
+          "title": "Sunflower",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b41d5387b04202354310df",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411666/drawing-app/documents/yvvyejozp8youiabsloz.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411666/drawing-app/documents/yvvyejozp8youiabsloz.jpg",
+          "createdAt": "2026-03-13T14:20:52.191Z",
+          "updatedAt": "2026-03-13T14:21:07.017Z"
+        },
+        {
+          "id": "69b41d2587b04202354310d4",
+          "title": "rose",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b41d3687b04202354310d8",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411638/drawing-app/documents/xf6ow7oxvumopjewoub2.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411638/drawing-app/documents/xf6ow7oxvumopjewoub2.jpg",
+          "createdAt": "2026-03-13T14:20:21.945Z",
+          "updatedAt": "2026-03-13T14:20:38.853Z"
+        },
+        {
+          "id": "69b41d0687b04202354310cd",
+          "title": "cherry blossom",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b41d1687b04202354310d1",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411606/drawing-app/documents/g6hvkjydckjku95ktefp.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411606/drawing-app/documents/g6hvkjydckjku95ktefp.jpg",
+          "createdAt": "2026-03-13T14:19:50.028Z",
+          "updatedAt": "2026-03-13T14:20:06.804Z"
+        },
+        {
+          "id": "69b41ce487b04202354310c6",
+          "title": "Lotus",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b41cf287b04202354310ca",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411569/drawing-app/documents/oxhah89xn9zy7hryg0gh.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411569/drawing-app/documents/oxhah89xn9zy7hryg0gh.jpg",
+          "createdAt": "2026-03-13T14:19:16.210Z",
+          "updatedAt": "2026-03-13T14:19:30.239Z"
+        },
+        {
+          "id": "69b41cbf87b04202354310bf",
+          "title": "Daisy",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b41cd287b04202354310c3",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411535/drawing-app/documents/ja09wny24x78czr3wted.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411535/drawing-app/documents/ja09wny24x78czr3wted.jpg",
+          "createdAt": "2026-03-13T14:18:39.386Z",
+          "updatedAt": "2026-03-13T14:18:58.994Z"
+        },
+        {
+          "id": "69b41c8187b04202354310b8",
+          "title": "Maple Leaf",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b41cac87b04202354310bc",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411499/drawing-app/documents/mqmqi4wesi0exdiprgv7.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773411499/drawing-app/documents/mqmqi4wesi0exdiprgv7.jpg",
+          "createdAt": "2026-03-13T14:17:37.605Z",
+          "updatedAt": "2026-03-13T14:18:20.321Z"
+        }
+      ]
+    },
+    {
+      "id": "69b4214487b04202354310ff",
+      "name": "Objects / Everyday Things",
+      "slug": "objects-everyday-things",
+      "icon": "🏠",
+      "description": "Portraits and people-related drawings",
+      "total_items": 11,
+      "documents": [
+        {
+          "id": "69b422fd87b042023543114b",
+          "title": "Water Bottle",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b4230c87b042023543114f",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773413131/drawing-app/documents/t6tru9n6artw4vxhgcmf.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773413131/drawing-app/documents/t6tru9n6artw4vxhgcmf.jpg",
+          "createdAt": "2026-03-13T14:45:17.606Z",
+          "updatedAt": "2026-03-13T14:45:32.323Z"
+        },
+        {
+          "id": "69b422e087b0420235431144",
+          "title": "Soccer Ball",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b422f087b0420235431148",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773413102/drawing-app/documents/slxlocst4mchpmmxb4ta.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773413102/drawing-app/documents/slxlocst4mchpmmxb4ta.jpg",
+          "createdAt": "2026-03-13T14:44:48.752Z",
+          "updatedAt": "2026-03-13T14:45:04.008Z"
+        },
+        {
+          "id": "69b4229887b042023543113d",
+          "title": "Table Lamp",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b422b487b0420235431141",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773413043/drawing-app/documents/jjitq7xlovvijzurxhmk.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773413043/drawing-app/documents/jjitq7xlovvijzurxhmk.jpg",
+          "createdAt": "2026-03-13T14:43:36.967Z",
+          "updatedAt": "2026-03-13T14:44:04.809Z"
+        },
+        {
+          "id": "69b4227b87b0420235431135",
+          "title": "Sunglasses",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [],
+          "image": null,
+          "createdAt": "2026-03-13T14:43:07.328Z",
+          "updatedAt": "2026-03-13T14:43:07.328Z"
+        },
+        {
+          "id": "69b4225587b042023543112e",
+          "title": "Pencil",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b4226387b0420235431132",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773412962/drawing-app/documents/apoc3irqqejggqjkh8db.jpg",
+              "order": 1
+            },
+            {
+              "id": "69b4228987b042023543113a",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773413000/drawing-app/documents/jprxqoz5mnmpepspdk9g.jpg",
+              "order": 2
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773412962/drawing-app/documents/apoc3irqqejggqjkh8db.jpg",
+          "createdAt": "2026-03-13T14:42:29.344Z",
+          "updatedAt": "2026-03-13T14:43:21.458Z"
+        },
+        {
+          "id": "69b4223c87b0420235431127",
+          "title": "Headphones",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b4224987b042023543112b",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773412937/drawing-app/documents/gsrlcb3fvpzse9fvgbnb.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773412937/drawing-app/documents/gsrlcb3fvpzse9fvgbnb.jpg",
+          "createdAt": "2026-03-13T14:42:04.060Z",
+          "updatedAt": "2026-03-13T14:42:17.905Z"
+        },
+        {
+          "id": "69b4222387b0420235431120",
+          "title": "Coffee Mug",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b4223087b0420235431124",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773412911/drawing-app/documents/ydgidgioeb1guiqsueu3.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773412911/drawing-app/documents/ydgidgioeb1guiqsueu3.jpg",
+          "createdAt": "2026-03-13T14:41:39.115Z",
+          "updatedAt": "2026-03-13T14:41:52.180Z"
+        },
+        {
+          "id": "69b4220487b0420235431119",
+          "title": "Chair",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b4221387b042023543111d",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773412883/drawing-app/documents/ivjlj6ra223ftzv9lzvo.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773412883/drawing-app/documents/ivjlj6ra223ftzv9lzvo.jpg",
+          "createdAt": "2026-03-13T14:41:08.764Z",
+          "updatedAt": "2026-03-13T14:41:23.909Z"
+        },
+        {
+          "id": "69b421e887b0420235431112",
+          "title": "Camera",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b421f987b0420235431116",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773412856/drawing-app/documents/gnbuyfsxyvrnrj8h6m5d.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773412856/drawing-app/documents/gnbuyfsxyvrnrj8h6m5d.jpg",
+          "createdAt": "2026-03-13T14:40:40.133Z",
+          "updatedAt": "2026-03-13T14:40:57.472Z"
+        },
+        {
+          "id": "69b421cf87b042023543110b",
+          "title": "book",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b421dd87b042023543110f",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773412828/drawing-app/documents/xcxm70zltkln7szxnhph.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773412828/drawing-app/documents/xcxm70zltkln7szxnhph.jpg",
+          "createdAt": "2026-03-13T14:40:15.815Z",
+          "updatedAt": "2026-03-13T14:40:29.212Z"
+        },
+        {
+          "id": "69b421b087b0420235431104",
+          "title": "backpack",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b421be87b0420235431108",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773412797/drawing-app/documents/oncscxw472qkrgxul3xp.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773412797/drawing-app/documents/oncscxw472qkrgxul3xp.jpg",
+          "createdAt": "2026-03-13T14:39:44.893Z",
+          "updatedAt": "2026-03-13T14:39:58.282Z"
+        }
+      ]
+    },
+    {
+      "id": "69b4266f87b0420235431153",
+      "name": "Sports",
+      "slug": "sports",
+      "icon": "⚽",
+      "description": "Portraits and people-related drawings",
+      "total_items": 10,
+      "documents": [
+        {
+          "id": "69b4284187b0420235431197",
+          "title": "Trophy Cup",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b4284f87b042023543119b",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414479/drawing-app/documents/drdx4xzylonmlih1nxqc.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414479/drawing-app/documents/drdx4xzylonmlih1nxqc.jpg",
+          "createdAt": "2026-03-13T15:07:45.696Z",
+          "updatedAt": "2026-03-13T15:07:59.980Z"
+        },
+        {
+          "id": "69b4282787b0420235431190",
+          "title": "Tennis Racket",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b4283387b0420235431194",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414450/drawing-app/documents/hlhx9zcxgij90rb2sezx.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414450/drawing-app/documents/hlhx9zcxgij90rb2sezx.jpg",
+          "createdAt": "2026-03-13T15:07:19.046Z",
+          "updatedAt": "2026-03-13T15:07:31.213Z"
+        },
+        {
+          "id": "69b4280b87b0420235431189",
+          "title": "Skateboard",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b4281a87b042023543118d",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414425/drawing-app/documents/axyfcdqyotagekyw6btf.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414425/drawing-app/documents/axyfcdqyotagekyw6btf.jpg",
+          "createdAt": "2026-03-13T15:06:51.487Z",
+          "updatedAt": "2026-03-13T15:07:06.454Z"
+        },
+        {
+          "id": "69b427ef87b0420235431182",
+          "title": "Running Shoe",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b427ff87b0420235431186",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414398/drawing-app/documents/j1lwuq2pafavnsplktsr.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414398/drawing-app/documents/j1lwuq2pafavnsplktsr.jpg",
+          "createdAt": "2026-03-13T15:06:23.844Z",
+          "updatedAt": "2026-03-13T15:06:39.635Z"
+        },
+        {
+          "id": "69b427d287b042023543117b",
+          "title": "Golf Club",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b427e287b042023543117f",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414370/drawing-app/documents/w7p16i6ftrfehto6zlog.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414370/drawing-app/documents/w7p16i6ftrfehto6zlog.jpg",
+          "createdAt": "2026-03-13T15:05:54.302Z",
+          "updatedAt": "2026-03-13T15:06:10.968Z"
+        },
+        {
+          "id": "69b427af87b0420235431174",
+          "title": "Cricket Bat",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b427c387b0420235431178",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414338/drawing-app/documents/z5uabifhn9fatk05fvpm.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414338/drawing-app/documents/z5uabifhn9fatk05fvpm.jpg",
+          "createdAt": "2026-03-13T15:05:19.887Z",
+          "updatedAt": "2026-03-13T15:05:39.615Z"
+        },
+        {
+          "id": "69b4279287b042023543116d",
+          "title": "Boxing Gloves",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b427a387b0420235431171",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414306/drawing-app/documents/ulzwsdz7gk2eell5szsr.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414306/drawing-app/documents/ulzwsdz7gk2eell5szsr.jpg",
+          "createdAt": "2026-03-13T15:04:50.230Z",
+          "updatedAt": "2026-03-13T15:05:07.453Z"
+        },
+        {
+          "id": "69b4276e87b0420235431166",
+          "title": "Baseball Bat",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b4277e87b042023543116a",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414269/drawing-app/documents/xn1kyr7sqavmkrp3hukq.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414269/drawing-app/documents/xn1kyr7sqavmkrp3hukq.jpg",
+          "createdAt": "2026-03-13T15:04:14.787Z",
+          "updatedAt": "2026-03-13T15:04:30.738Z"
+        },
+        {
+          "id": "69b426ca87b042023543115f",
+          "title": "Basketball",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b426d987b0420235431163",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414105/drawing-app/documents/ygnf0d9yxw5ispcly4oa.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414105/drawing-app/documents/ygnf0d9yxw5ispcly4oa.jpg",
+          "createdAt": "2026-03-13T15:01:30.038Z",
+          "updatedAt": "2026-03-13T15:01:45.819Z"
+        },
+        {
+          "id": "69b4269e87b0420235431158",
+          "title": "Soccer Ball",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69b426ae87b042023543115c",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414061/drawing-app/documents/he1uydaaybgmjp6loner.png",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773414061/drawing-app/documents/he1uydaaybgmjp6loner.png",
+          "createdAt": "2026-03-13T15:00:46.986Z",
+          "updatedAt": "2026-03-13T15:01:02.287Z"
+        }
+      ]
+    },
+    {
+      "id": "69cd2cca973a133fae50751d",
+      "name": "Fantasy Characters",
+      "slug": "fantasy-characters",
+      "icon": "🧙‍♂️",
+      "description": "Portraits and people-related drawings",
+      "total_items": 12,
+      "documents": [
+        {
+          "id": "69cd2f4e973a133fae50756f",
+          "title": "Necromancer",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69cd2f67973a133fae507573",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054694/drawing-app/documents/ktahimvoxvxbjihjxcqy.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054694/drawing-app/documents/ktahimvoxvxbjihjxcqy.jpg",
+          "createdAt": "2026-04-01T14:44:30.875Z",
+          "updatedAt": "2026-04-01T14:44:55.224Z"
+        },
+        {
+          "id": "69cd2f34973a133fae507568",
+          "title": "Wizard Apprentice",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69cd2f45973a133fae50756c",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054660/drawing-app/documents/ftk4ucokcmu4vlastsfk.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054660/drawing-app/documents/ftk4ucokcmu4vlastsfk.jpg",
+          "createdAt": "2026-04-01T14:44:04.181Z",
+          "updatedAt": "2026-04-01T14:44:21.558Z"
+        },
+        {
+          "id": "69cd2f16973a133fae507561",
+          "title": "Orc Berserker",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69cd2f28973a133fae507565",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054631/drawing-app/documents/rmzvfmmwh20gcvjmaon3.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054631/drawing-app/documents/rmzvfmmwh20gcvjmaon3.jpg",
+          "createdAt": "2026-04-01T14:43:34.996Z",
+          "updatedAt": "2026-04-01T14:43:52.327Z"
+        },
+        {
+          "id": "69cd2efa973a133fae50755a",
+          "title": "Fairy Queen",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69cd2f0b973a133fae50755e",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054602/drawing-app/documents/szowanpxey1c0qtfmo94.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054602/drawing-app/documents/szowanpxey1c0qtfmo94.jpg",
+          "createdAt": "2026-04-01T14:43:06.572Z",
+          "updatedAt": "2026-04-01T14:43:23.285Z"
+        },
+        {
+          "id": "69cd2ed6973a133fae507553",
+          "title": "Goblin Warrior",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69cd2eea973a133fae507557",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054569/drawing-app/documents/o9bbi3zuau5krcfn2dvf.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054569/drawing-app/documents/o9bbi3zuau5krcfn2dvf.jpg",
+          "createdAt": "2026-04-01T14:42:30.011Z",
+          "updatedAt": "2026-04-01T14:42:50.063Z"
+        },
+        {
+          "id": "69cd2ebe973a133fae50754c",
+          "title": "Holy Paladin",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69cd2ecb973a133fae507550",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054538/drawing-app/documents/dchuhuddvqmofqwlv3bp.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054538/drawing-app/documents/dchuhuddvqmofqwlv3bp.jpg",
+          "createdAt": "2026-04-01T14:42:06.053Z",
+          "updatedAt": "2026-04-01T14:42:19.600Z"
+        },
+        {
+          "id": "69cd2ea1973a133fae507545",
+          "title": "Shadow Assassin",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69cd2eb1973a133fae507549",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054512/drawing-app/documents/b98xvsrftgwgughgqyci.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054512/drawing-app/documents/b98xvsrftgwgughgqyci.jpg",
+          "createdAt": "2026-04-01T14:41:37.381Z",
+          "updatedAt": "2026-04-01T14:41:53.528Z"
+        },
+        {
+          "id": "69cd2e88973a133fae50753e",
+          "title": "Dragon Tamer",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69cd2e95973a133fae507542",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054485/drawing-app/documents/kwfescyvvvowhxuyadya.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054485/drawing-app/documents/kwfescyvvvowhxuyadya.jpg",
+          "createdAt": "2026-04-01T14:41:12.007Z",
+          "updatedAt": "2026-04-01T14:41:25.952Z"
+        },
+        {
+          "id": "69cd2e6a973a133fae507537",
+          "title": "Forest Elf Archer",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69cd2e7d973a133fae50753b",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054460/drawing-app/documents/h0kszpymu7bsmfe2lgiz.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054460/drawing-app/documents/h0kszpymu7bsmfe2lgiz.jpg",
+          "createdAt": "2026-04-01T14:40:42.682Z",
+          "updatedAt": "2026-04-01T14:41:01.449Z"
+        },
+        {
+          "id": "69cd2e50973a133fae507530",
+          "title": "Dark Knight",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69cd2e5f973a133fae507534",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054430/drawing-app/documents/xid4xdfawo8wzvuwtrzu.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054430/drawing-app/documents/xid4xdfawo8wzvuwtrzu.jpg",
+          "createdAt": "2026-04-01T14:40:16.018Z",
+          "updatedAt": "2026-04-01T14:40:31.528Z"
+        },
+        {
+          "id": "69cd2e34973a133fae507529",
+          "title": "Ice Sorceress",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69cd2e44973a133fae50752d",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054403/drawing-app/documents/zmkvdbg5yo3e9kmocjq9.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054403/drawing-app/documents/zmkvdbg5yo3e9kmocjq9.jpg",
+          "createdAt": "2026-04-01T14:39:48.582Z",
+          "updatedAt": "2026-04-01T14:40:04.467Z"
+        },
+        {
+          "id": "69cd2e0d973a133fae507522",
+          "title": "Fire Mage",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69cd2e26973a133fae507526",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054373/drawing-app/documents/ip9ic23e4bdbgobeeq9w.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054373/drawing-app/documents/ip9ic23e4bdbgobeeq9w.jpg",
+          "createdAt": "2026-04-01T14:39:09.439Z",
+          "updatedAt": "2026-04-01T14:39:34.390Z"
+        }
+      ]
+    }
+  ]
+}
