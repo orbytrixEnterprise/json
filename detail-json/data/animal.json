@@ -1,0 +1,15 @@
+{
+  "category": {
+    "id": "69ad4cc04dbc18a5ff5eb297",
+    "name": "animal",
+    "slug": "animal"
+  },
+  "total": 14,
+  "pagination": {
+    "page_size": 50,
+    "total_pages": 1
+  },
+  "pages": [
+    "/data/animal/page-1.json"
+  ]
+}
