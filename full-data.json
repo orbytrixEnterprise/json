@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-02T15:54:09.816Z",
+  "generated_at": "2026-04-19T04:46:06.993Z",
   "total_categories": 10,
-  "total_documents": 121,
+  "total_documents": 117,
   "data": [
     {
       "id": "6968f7437f70a968cc7dc4c1",
@@ -1028,28 +1028,8 @@
       "slug": "space",
       "icon": "🌌",
       "description": "Portraits and people-related drawings",
-      "total_items": 15,
+      "total_items": 13,
       "documents": [
-        {
-          "id": "69ad680b9b1d0936d5ee14f5",
-          "title": "Planet Landscape",
-          "description": "A collection of architectural drawings",
-          "status": "active",
-          "main_image": {
-            "cloudinaryId": null,
-            "url": null
-          },
-          "images": [
-            {
-              "id": "69ad681a9b1d0936d5ee14f9",
-              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772972058/drawing-app/documents/kdlzjxqkri0qtalmblu2.jpg",
-              "order": 1
-            }
-          ],
-          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772972058/drawing-app/documents/kdlzjxqkri0qtalmblu2.jpg",
-          "createdAt": "2026-03-08T12:14:03.587Z",
-          "updatedAt": "2026-03-08T12:14:18.835Z"
-        },
         {
           "id": "69ad67f09b1d0936d5ee14ee",
           "title": "Space Rover",
@@ -1191,20 +1171,6 @@
           "updatedAt": "2026-03-08T12:10:35.381Z"
         },
         {
-          "id": "69ad66fb9b1d0936d5ee14bc",
-          "title": "Star Cluster",
-          "description": "A collection of architectural drawings",
-          "status": "active",
-          "main_image": {
-            "cloudinaryId": null,
-            "url": null
-          },
-          "images": [],
-          "image": null,
-          "createdAt": "2026-03-08T12:09:31.158Z",
-          "updatedAt": "2026-03-08T12:09:31.158Z"
-        },
-        {
           "id": "69ad66de9b1d0936d5ee14b5",
           "title": "Crescent Moon",
           "description": "A collection of architectural drawings",
@@ -1337,7 +1303,7 @@
       "slug": "birds",
       "icon": "🐦",
       "description": "Portraits and people-related drawings",
-      "total_items": 14,
+      "total_items": 13,
       "documents": [
         {
           "id": "69ad88bb4589594dd462a352",
@@ -1498,20 +1464,6 @@
           "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1772980164/drawing-app/documents/rerw1ddrwikv9exzciir.jpg",
           "createdAt": "2026-03-08T14:29:07.579Z",
           "updatedAt": "2026-03-08T14:29:25.638Z"
-        },
-        {
-          "id": "69ad878e4589594dd462a319",
-          "title": "owl",
-          "description": "A collection of architectural drawings",
-          "status": "active",
-          "main_image": {
-            "cloudinaryId": null,
-            "url": null
-          },
-          "images": [],
-          "image": null,
-          "createdAt": "2026-03-08T14:28:30.105Z",
-          "updatedAt": "2026-03-08T14:28:30.105Z"
         },
         {
           "id": "69ad87634589594dd462a312",
@@ -1836,7 +1788,7 @@
       "slug": "objects-everyday-things",
       "icon": "🏠",
       "description": "Portraits and people-related drawings",
-      "total_items": 11,
+      "total_items": 10,
       "documents": [
         {
           "id": "69b422fd87b042023543114b",
@@ -1897,20 +1849,6 @@
           "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1773413043/drawing-app/documents/jjitq7xlovvijzurxhmk.jpg",
           "createdAt": "2026-03-13T14:43:36.967Z",
           "updatedAt": "2026-03-13T14:44:04.809Z"
-        },
-        {
-          "id": "69b4227b87b0420235431135",
-          "title": "Sunglasses",
-          "description": "A collection of architectural drawings",
-          "status": "active",
-          "main_image": {
-            "cloudinaryId": null,
-            "url": null
-          },
-          "images": [],
-          "image": null,
-          "createdAt": "2026-03-13T14:43:07.328Z",
-          "updatedAt": "2026-03-13T14:43:07.328Z"
         },
         {
           "id": "69b4225587b042023543112e",
