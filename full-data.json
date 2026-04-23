@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-23T16:06:05.116Z",
-  "total_categories": 11,
-  "total_documents": 128,
+  "generated_at": "2026-04-23T16:50:55.066Z",
+  "total_categories": 12,
+  "total_documents": 140,
   "data": [
     {
       "id": "6968f7437f70a968cc7dc4c1",
@@ -2684,6 +2684,256 @@
           "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776959063/drawing-app/documents/btdzqroo4v9peifxld5y.jpg",
           "createdAt": "2026-04-23T15:41:52.683Z",
           "updatedAt": "2026-04-23T15:44:24.386Z"
+        }
+      ]
+    },
+    {
+      "id": "69ea48e894ce3635b8def9ec",
+      "name": "Human Poses (Gesture Drawing)",
+      "slug": "human-poses-gesture-drawing",
+      "icon": "🧍",
+      "description": "Portraits and people-related drawings",
+      "total_items": 12,
+      "documents": [
+        {
+          "id": "69ea4dd794ce3635b8defa3e",
+          "title": "Victory Pose",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea4de494ce3635b8defa42",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776963044/drawing-app/documents/aivubmzp4fgsydfxsquy.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776963044/drawing-app/documents/aivubmzp4fgsydfxsquy.jpg",
+          "createdAt": "2026-04-23T16:50:31.378Z",
+          "updatedAt": "2026-04-23T16:50:44.942Z"
+        },
+        {
+          "id": "69ea4dbc94ce3635b8defa37",
+          "title": "Running",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea4dcb94ce3635b8defa3b",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776963018/drawing-app/documents/wrfiyqzdq87hfikhzvfr.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776963018/drawing-app/documents/wrfiyqzdq87hfikhzvfr.jpg",
+          "createdAt": "2026-04-23T16:50:04.642Z",
+          "updatedAt": "2026-04-23T16:50:19.736Z"
+        },
+        {
+          "id": "69ea4da094ce3635b8defa30",
+          "title": "Jumping",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea4db294ce3635b8defa34",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776962993/drawing-app/documents/n94hqtgo9ez5srotupxj.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776962993/drawing-app/documents/n94hqtgo9ez5srotupxj.jpg",
+          "createdAt": "2026-04-23T16:49:36.762Z",
+          "updatedAt": "2026-04-23T16:49:54.579Z"
+        },
+        {
+          "id": "69ea4d8794ce3635b8defa29",
+          "title": "dancing",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea4d9694ce3635b8defa2d",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776962965/drawing-app/documents/z705bfnvt74rlatsalhz.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776962965/drawing-app/documents/z705bfnvt74rlatsalhz.jpg",
+          "createdAt": "2026-04-23T16:49:11.234Z",
+          "updatedAt": "2026-04-23T16:49:26.356Z"
+        },
+        {
+          "id": "69ea49e394ce3635b8defa22",
+          "title": "Walking",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea49f094ce3635b8defa26",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776962031/drawing-app/documents/wqt8rmaxgzdfqzguabts.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776962031/drawing-app/documents/wqt8rmaxgzdfqzguabts.jpg",
+          "createdAt": "2026-04-23T16:33:39.073Z",
+          "updatedAt": "2026-04-23T16:33:52.545Z"
+        },
+        {
+          "id": "69ea49c594ce3635b8defa1b",
+          "title": "sitting",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea49d794ce3635b8defa1f",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776962006/drawing-app/documents/cceu2ozzqq5eykla5so8.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776962006/drawing-app/documents/cceu2ozzqq5eykla5so8.jpg",
+          "createdAt": "2026-04-23T16:33:09.777Z",
+          "updatedAt": "2026-04-23T16:33:27.576Z"
+        },
+        {
+          "id": "69ea49aa94ce3635b8defa14",
+          "title": "Hands on Hips",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea49b894ce3635b8defa18",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776961976/drawing-app/documents/z5hj6yyamzshckwerkhs.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776961976/drawing-app/documents/z5hj6yyamzshckwerkhs.jpg",
+          "createdAt": "2026-04-23T16:32:42.032Z",
+          "updatedAt": "2026-04-23T16:32:56.950Z"
+        },
+        {
+          "id": "69ea499294ce3635b8defa0d",
+          "title": "Stretching",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea499e94ce3635b8defa11",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776961950/drawing-app/documents/kvkg9ojm9aphkzjtcvy3.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776961950/drawing-app/documents/kvkg9ojm9aphkzjtcvy3.jpg",
+          "createdAt": "2026-04-23T16:32:18.683Z",
+          "updatedAt": "2026-04-23T16:32:30.851Z"
+        },
+        {
+          "id": "69ea497794ce3635b8defa06",
+          "title": "Kneeling",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea498494ce3635b8defa0a",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776961923/drawing-app/documents/heetdgpgsbo7vpoxk7pe.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776961923/drawing-app/documents/heetdgpgsbo7vpoxk7pe.jpg",
+          "createdAt": "2026-04-23T16:31:51.522Z",
+          "updatedAt": "2026-04-23T16:32:04.108Z"
+        },
+        {
+          "id": "69ea495594ce3635b8def9ff",
+          "title": "Standing",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea496e94ce3635b8defa03",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776961902/drawing-app/documents/wbiszdwort86uzurmhch.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776961902/drawing-app/documents/wbiszdwort86uzurmhch.jpg",
+          "createdAt": "2026-04-23T16:31:17.906Z",
+          "updatedAt": "2026-04-23T16:31:42.709Z"
+        },
+        {
+          "id": "69ea493d94ce3635b8def9f8",
+          "title": "Waving",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea494a94ce3635b8def9fc",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776961866/drawing-app/documents/v3si2x0z4jgc8oyp2sw2.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776961866/drawing-app/documents/v3si2x0z4jgc8oyp2sw2.jpg",
+          "createdAt": "2026-04-23T16:30:53.595Z",
+          "updatedAt": "2026-04-23T16:31:06.945Z"
+        },
+        {
+          "id": "69ea490e94ce3635b8def9f1",
+          "title": "Thinking Pose",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea492c94ce3635b8def9f5",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776961835/drawing-app/documents/lyty5tziiqla9bybyvfd.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776961835/drawing-app/documents/lyty5tziiqla9bybyvfd.jpg",
+          "createdAt": "2026-04-23T16:30:06.307Z",
+          "updatedAt": "2026-04-23T16:30:36.328Z"
         }
       ]
     }
