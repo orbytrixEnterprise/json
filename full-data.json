@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-19T04:46:06.993Z",
-  "total_categories": 10,
-  "total_documents": 117,
+  "generated_at": "2026-04-23T16:06:05.116Z",
+  "total_categories": 11,
+  "total_documents": 128,
   "data": [
     {
       "id": "6968f7437f70a968cc7dc4c1",
@@ -2454,6 +2454,236 @@
           "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1775054373/drawing-app/documents/ip9ic23e4bdbgobeeq9w.jpg",
           "createdAt": "2026-04-01T14:39:09.439Z",
           "updatedAt": "2026-04-01T14:39:34.390Z"
+        }
+      ]
+    },
+    {
+      "id": "69ea3d5e94ce3635b8def997",
+      "name": "Emotions & Expressions",
+      "slug": "emotions-expressions",
+      "icon": "😄",
+      "description": "Portraits and people-related drawings",
+      "total_items": 11,
+      "documents": [
+        {
+          "id": "69ea434994ce3635b8def9e2",
+          "title": "Angry person",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea435994ce3635b8def9e6",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776960344/drawing-app/documents/qjtxdkwlj6qa22hjy7hz.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776960344/drawing-app/documents/qjtxdkwlj6qa22hjy7hz.jpg",
+          "createdAt": "2026-04-23T16:05:29.106Z",
+          "updatedAt": "2026-04-23T16:05:45.501Z"
+        },
+        {
+          "id": "69ea432594ce3635b8def9db",
+          "title": "Thinking person",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea433694ce3635b8def9df",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776960309/drawing-app/documents/zkjsog8ndmgerbry29xj.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776960309/drawing-app/documents/zkjsog8ndmgerbry29xj.jpg",
+          "createdAt": "2026-04-23T16:04:53.874Z",
+          "updatedAt": "2026-04-23T16:05:10.310Z"
+        },
+        {
+          "id": "69ea430194ce3635b8def9d4",
+          "title": "sad person",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea431294ce3635b8def9d8",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776960273/drawing-app/documents/pml7lr5in7ctfn4i01y5.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776960273/drawing-app/documents/pml7lr5in7ctfn4i01y5.jpg",
+          "createdAt": "2026-04-23T16:04:17.440Z",
+          "updatedAt": "2026-04-23T16:04:34.358Z"
+        },
+        {
+          "id": "69ea42e394ce3635b8def9cd",
+          "title": "Shy person",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea42f194ce3635b8def9d1",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776960240/drawing-app/documents/yoisx3tsqkr0n17wbkrw.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776960240/drawing-app/documents/yoisx3tsqkr0n17wbkrw.jpg",
+          "createdAt": "2026-04-23T16:03:47.341Z",
+          "updatedAt": "2026-04-23T16:04:01.720Z"
+        },
+        {
+          "id": "69ea42c394ce3635b8def9c6",
+          "title": "Excited person",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea42d294ce3635b8def9ca",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776960208/drawing-app/documents/ygvok6p3cwssmvckhaw9.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776960208/drawing-app/documents/ygvok6p3cwssmvckhaw9.jpg",
+          "createdAt": "2026-04-23T16:03:15.156Z",
+          "updatedAt": "2026-04-23T16:03:30.625Z"
+        },
+        {
+          "id": "69ea429f94ce3635b8def9bf",
+          "title": "Confused person",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea42b194ce3635b8def9c3",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776960176/drawing-app/documents/gtzq5javnqbwuhpci4t6.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776960176/drawing-app/documents/gtzq5javnqbwuhpci4t6.jpg",
+          "createdAt": "2026-04-23T16:02:39.157Z",
+          "updatedAt": "2026-04-23T16:02:57.854Z"
+        },
+        {
+          "id": "69ea428094ce3635b8def9b8",
+          "title": "crying person",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea428e94ce3635b8def9bc",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776960142/drawing-app/documents/cyth8jv5aldq5ttkmzk3.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776960142/drawing-app/documents/cyth8jv5aldq5ttkmzk3.jpg",
+          "createdAt": "2026-04-23T16:02:08.191Z",
+          "updatedAt": "2026-04-23T16:02:22.935Z"
+        },
+        {
+          "id": "69ea425a94ce3635b8def9b1",
+          "title": "Winking face",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea426c94ce3635b8def9b5",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776960107/drawing-app/documents/c4sczmchiwlop2ltnk1w.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776960107/drawing-app/documents/c4sczmchiwlop2ltnk1w.jpg",
+          "createdAt": "2026-04-23T16:01:30.497Z",
+          "updatedAt": "2026-04-23T16:01:48.694Z"
+        },
+        {
+          "id": "69ea3ecb94ce3635b8def9aa",
+          "title": "Surprised face",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea3ee294ce3635b8def9ae",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776959201/drawing-app/documents/sjujuo8vroa1mtf2vz3i.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776959201/drawing-app/documents/sjujuo8vroa1mtf2vz3i.jpg",
+          "createdAt": "2026-04-23T15:46:19.023Z",
+          "updatedAt": "2026-04-23T15:46:42.785Z"
+        },
+        {
+          "id": "69ea3e8094ce3635b8def9a3",
+          "title": "Laughing face",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea3eb294ce3635b8def9a7",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776959153/drawing-app/documents/ylylugqmgfetf3dsth6b.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776959153/drawing-app/documents/ylylugqmgfetf3dsth6b.jpg",
+          "createdAt": "2026-04-23T15:45:04.276Z",
+          "updatedAt": "2026-04-23T15:45:54.545Z"
+        },
+        {
+          "id": "69ea3dc094ce3635b8def99c",
+          "title": "happy-face",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69ea3e5894ce3635b8def9a0",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776959063/drawing-app/documents/btdzqroo4v9peifxld5y.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776959063/drawing-app/documents/btdzqroo4v9peifxld5y.jpg",
+          "createdAt": "2026-04-23T15:41:52.683Z",
+          "updatedAt": "2026-04-23T15:44:24.386Z"
         }
       ]
     }
