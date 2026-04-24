@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-23T16:50:55.066Z",
-  "total_categories": 12,
-  "total_documents": 140,
+  "generated_at": "2026-04-24T14:06:05.588Z",
+  "total_categories": 13,
+  "total_documents": 153,
   "data": [
     {
       "id": "6968f7437f70a968cc7dc4c1",
@@ -2934,6 +2934,276 @@
           "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1776961835/drawing-app/documents/lyty5tziiqla9bybyvfd.jpg",
           "createdAt": "2026-04-23T16:30:06.307Z",
           "updatedAt": "2026-04-23T16:30:36.328Z"
+        }
+      ]
+    },
+    {
+      "id": "69eb762e554f4e567e85d8ce",
+      "name": "Fashion & Outfit Design",
+      "slug": "fashion-outfit-design",
+      "icon": "👗",
+      "description": "Portraits and people-related drawings",
+      "total_items": 13,
+      "documents": [
+        {
+          "id": "69eb789f554f4e567e85d927",
+          "title": "Business Suit",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69eb78b4554f4e567e85d92b",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039541/drawing-app/documents/ltzcxlsxyd4bkofvaw96.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039541/drawing-app/documents/ltzcxlsxyd4bkofvaw96.jpg",
+          "createdAt": "2026-04-24T14:05:19.602Z",
+          "updatedAt": "2026-04-24T14:05:40.712Z"
+        },
+        {
+          "id": "69eb7880554f4e567e85d920",
+          "title": "Casual Hoodie Outfit",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69eb7891554f4e567e85d924",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039505/drawing-app/documents/niy3tojuwnqkyu0yz6px.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039505/drawing-app/documents/niy3tojuwnqkyu0yz6px.jpg",
+          "createdAt": "2026-04-24T14:04:48.909Z",
+          "updatedAt": "2026-04-24T14:05:05.371Z"
+        },
+        {
+          "id": "69eb784f554f4e567e85d919",
+          "title": "Denim Jacket Style",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69eb7870554f4e567e85d91d",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039473/drawing-app/documents/hcz9dhydoctftol1uzhj.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039473/drawing-app/documents/hcz9dhydoctftol1uzhj.jpg",
+          "createdAt": "2026-04-24T14:03:59.960Z",
+          "updatedAt": "2026-04-24T14:04:33.000Z"
+        },
+        {
+          "id": "69eb7828554f4e567e85d912",
+          "title": "Fantasy Royal Outfit",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69eb7838554f4e567e85d916",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039417/drawing-app/documents/wyqhq4l2i98xr7isuqsa.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039417/drawing-app/documents/wyqhq4l2i98xr7isuqsa.jpg",
+          "createdAt": "2026-04-24T14:03:20.306Z",
+          "updatedAt": "2026-04-24T14:03:36.709Z"
+        },
+        {
+          "id": "69eb7809554f4e567e85d90b",
+          "title": "Party Dress",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69eb781a554f4e567e85d90f",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039386/drawing-app/documents/ylw6ohf79mtioffu8vtu.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039386/drawing-app/documents/ylw6ohf79mtioffu8vtu.jpg",
+          "createdAt": "2026-04-24T14:02:49.895Z",
+          "updatedAt": "2026-04-24T14:03:06.064Z"
+        },
+        {
+          "id": "69eb77eb554f4e567e85d904",
+          "title": "School Uniform",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69eb77fc554f4e567e85d908",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039356/drawing-app/documents/pvwxmnmkex5j0uqdv521.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039356/drawing-app/documents/pvwxmnmkex5j0uqdv521.jpg",
+          "createdAt": "2026-04-24T14:02:19.298Z",
+          "updatedAt": "2026-04-24T14:02:36.067Z"
+        },
+        {
+          "id": "69eb77cf554f4e567e85d8fd",
+          "title": "Sportswear Outfit",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69eb77df554f4e567e85d901",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039328/drawing-app/documents/mcctn6vgqkfhwt8eqlbn.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039328/drawing-app/documents/mcctn6vgqkfhwt8eqlbn.jpg",
+          "createdAt": "2026-04-24T14:01:51.317Z",
+          "updatedAt": "2026-04-24T14:02:07.886Z"
+        },
+        {
+          "id": "69eb77ae554f4e567e85d8f6",
+          "title": "Streetwear Style",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69eb77c3554f4e567e85d8fa",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039299/drawing-app/documents/sndydjnjkrvsvgacdchc.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039299/drawing-app/documents/sndydjnjkrvsvgacdchc.jpg",
+          "createdAt": "2026-04-24T14:01:18.679Z",
+          "updatedAt": "2026-04-24T14:01:39.174Z"
+        },
+        {
+          "id": "69eb7789554f4e567e85d8ef",
+          "title": "Summer Outfit",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69eb779b554f4e567e85d8f3",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039259/drawing-app/documents/rg8o4vumav2osa7irvy5.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039259/drawing-app/documents/rg8o4vumav2osa7irvy5.jpg",
+          "createdAt": "2026-04-24T14:00:41.319Z",
+          "updatedAt": "2026-04-24T14:00:59.143Z"
+        },
+        {
+          "id": "69eb7760554f4e567e85d8e8",
+          "title": "Superhero Suit",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69eb7776554f4e567e85d8ec",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039222/drawing-app/documents/lr6bfl5vhrfi2on6d1rv.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039222/drawing-app/documents/lr6bfl5vhrfi2on6d1rv.jpg",
+          "createdAt": "2026-04-24T14:00:00.213Z",
+          "updatedAt": "2026-04-24T14:00:22.887Z"
+        },
+        {
+          "id": "69eb7736554f4e567e85d8e1",
+          "title": "Traditional Kimono",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69eb7749554f4e567e85d8e5",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039177/drawing-app/documents/hmzj6jddsam47ymokdyx.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039177/drawing-app/documents/hmzj6jddsam47ymokdyx.jpg",
+          "createdAt": "2026-04-24T13:59:18.560Z",
+          "updatedAt": "2026-04-24T13:59:37.178Z"
+        },
+        {
+          "id": "69eb7700554f4e567e85d8da",
+          "title": "Winter Coat Outfit",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69eb7721554f4e567e85d8de",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039137/drawing-app/documents/didffs4aiknvdparz5e0.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039137/drawing-app/documents/didffs4aiknvdparz5e0.jpg",
+          "createdAt": "2026-04-24T13:58:24.877Z",
+          "updatedAt": "2026-04-24T13:58:57.357Z"
+        },
+        {
+          "id": "69eb76a6554f4e567e85d8d3",
+          "title": "Princess Dress",
+          "description": "A collection of architectural drawings",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69eb76e3554f4e567e85d8d7",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039076/drawing-app/documents/k80rckxbzcfvvhpjpdvc.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039076/drawing-app/documents/k80rckxbzcfvvhpjpdvc.jpg",
+          "createdAt": "2026-04-24T13:56:54.270Z",
+          "updatedAt": "2026-04-24T13:57:55.711Z"
         }
       ]
     }
