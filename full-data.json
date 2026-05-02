@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-24T14:06:05.588Z",
-  "total_categories": 13,
-  "total_documents": 153,
+  "generated_at": "2026-05-02T13:12:08.007Z",
+  "total_categories": 17,
+  "total_documents": 197,
   "data": [
     {
       "id": "6968f7437f70a968cc7dc4c1",
@@ -3204,6 +3204,926 @@
           "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777039076/drawing-app/documents/k80rckxbzcfvvhpjpdvc.jpg",
           "createdAt": "2026-04-24T13:56:54.270Z",
           "updatedAt": "2026-04-24T13:57:55.711Z"
+        }
+      ]
+    },
+    {
+      "id": "69f5f2449d38cb62b6fff6e3",
+      "name": "Story Scenes (Mini Scenes  Storytelling)",
+      "slug": "story-scenes-mini-scenes-storytelling",
+      "icon": "🧙‍♀️",
+      "description": "Story Scenes (Mini Scenes  Storytelling)",
+      "total_items": 12,
+      "documents": [
+        {
+          "id": "69f5f24b9d38cb62b6fff736",
+          "title": "Superhero Saving a Cat",
+          "description": "Superhero Saving a Cat",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f24d9d38cb62b6fff744",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726029/drawing-app/documents/flelupt7stbenjikzlpd.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726029/drawing-app/documents/flelupt7stbenjikzlpd.jpg",
+          "createdAt": "2026-05-02T12:47:07.930Z",
+          "updatedAt": "2026-05-02T12:47:09.829Z"
+        },
+        {
+          "id": "69f5f24b9d38cb62b6fff734",
+          "title": "Pirate Finding Treasure",
+          "description": "Pirate Finding Treasure",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f24d9d38cb62b6fff73c",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726028/drawing-app/documents/ynj8demmzuym6grf6vdk.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726028/drawing-app/documents/ynj8demmzuym6grf6vdk.jpg",
+          "createdAt": "2026-05-02T12:47:07.929Z",
+          "updatedAt": "2026-05-02T12:47:09.130Z"
+        },
+        {
+          "id": "69f5f24b9d38cb62b6fff732",
+          "title": "Explorer Discovering Ancient Temple",
+          "description": "Explorer Discovering Ancient Temple",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f24d9d38cb62b6fff740",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726028/drawing-app/documents/buepcfqlnh0srhvryl4r.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726028/drawing-app/documents/buepcfqlnh0srhvryl4r.jpg",
+          "createdAt": "2026-05-02T12:47:07.928Z",
+          "updatedAt": "2026-05-02T12:47:09.620Z"
+        },
+        {
+          "id": "69f5f24a9d38cb62b6fff71e",
+          "title": "Fisherman Catching a Fish",
+          "description": "Fisherman Catching a Fish",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f24b9d38cb62b6fff728",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726026/drawing-app/documents/xdmfw0qyflhgziras9bn.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726026/drawing-app/documents/xdmfw0qyflhgziras9bn.jpg",
+          "createdAt": "2026-05-02T12:47:06.042Z",
+          "updatedAt": "2026-05-02T12:47:07.132Z"
+        },
+        {
+          "id": "69f5f24a9d38cb62b6fff71c",
+          "title": "Kid Playing Football Kick",
+          "description": "Kid Playing Football Kick",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f24b9d38cb62b6fff72c",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726026/drawing-app/documents/mrle8924frqnsppslqa5.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726026/drawing-app/documents/mrle8924frqnsppslqa5.jpg",
+          "createdAt": "2026-05-02T12:47:06.041Z",
+          "updatedAt": "2026-05-02T12:47:07.836Z"
+        },
+        {
+          "id": "69f5f24a9d38cb62b6fff71a",
+          "title": "Chef Cooking in Kitchen",
+          "description": "Chef Cooking in Kitchen",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f24b9d38cb62b6fff724",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726026/drawing-app/documents/vocvvnogpwu6jbgk8ndi.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726026/drawing-app/documents/vocvvnogpwu6jbgk8ndi.jpg",
+          "createdAt": "2026-05-02T12:47:06.039Z",
+          "updatedAt": "2026-05-02T12:47:07.044Z"
+        },
+        {
+          "id": "69f5f2489d38cb62b6fff706",
+          "title": "Friends Sitting and Talking",
+          "description": "Friends Sitting and Talking",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f2499d38cb62b6fff710",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726025/drawing-app/documents/hdftam7r0fr3q80shtmr.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726025/drawing-app/documents/hdftam7r0fr3q80shtmr.jpg",
+          "createdAt": "2026-05-02T12:47:04.538Z",
+          "updatedAt": "2026-05-02T12:47:05.862Z"
+        },
+        {
+          "id": "69f5f2489d38cb62b6fff704",
+          "title": "Girl Watering Plants",
+          "description": "Girl Watering Plants",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f2499d38cb62b6fff714",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726025/drawing-app/documents/dvgixyxjyteltvipsdz1.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726025/drawing-app/documents/dvgixyxjyteltvipsdz1.jpg",
+          "createdAt": "2026-05-02T12:47:04.536Z",
+          "updatedAt": "2026-05-02T12:47:05.950Z"
+        },
+        {
+          "id": "69f5f2489d38cb62b6fff702",
+          "title": "Student Studying at Desk",
+          "description": "Student Studying at Desk",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f2499d38cb62b6fff70c",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726025/drawing-app/documents/efglgfhg67afketlfh0i.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726025/drawing-app/documents/efglgfhg67afketlfh0i.jpg",
+          "createdAt": "2026-05-02T12:47:04.534Z",
+          "updatedAt": "2026-05-02T12:47:05.611Z"
+        },
+        {
+          "id": "69f5f2449d38cb62b6fff6ee",
+          "title": "Child Flying a Kite",
+          "description": "Child Flying a Kite",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f2479d38cb62b6fff6f5",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726023/drawing-app/documents/hx2el2hfdkseduiwhe0l.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726023/drawing-app/documents/hx2el2hfdkseduiwhe0l.jpg",
+          "createdAt": "2026-05-02T12:47:00.779Z",
+          "updatedAt": "2026-05-02T12:47:03.607Z"
+        },
+        {
+          "id": "69f5f2449d38cb62b6fff6ec",
+          "title": "Boy Walking a Dog",
+          "description": "Boy Walking a Dog",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f2479d38cb62b6fff6f7",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726023/drawing-app/documents/bc8pia2vtu1szeu4ordt.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726023/drawing-app/documents/bc8pia2vtu1szeu4ordt.jpg",
+          "createdAt": "2026-05-02T12:47:00.777Z",
+          "updatedAt": "2026-05-02T12:47:03.626Z"
+        },
+        {
+          "id": "69f5f2449d38cb62b6fff6ea",
+          "title": "Knight Protecting a Princess from a Dragon",
+          "description": "Knight Protecting a Princess from a Dragon",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f2489d38cb62b6fff6fc",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726023/drawing-app/documents/vhtlrwue1r1ujs0fjpjn.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726023/drawing-app/documents/vhtlrwue1r1ujs0fjpjn.jpg",
+          "createdAt": "2026-05-02T12:47:00.774Z",
+          "updatedAt": "2026-05-02T12:47:04.443Z"
+        }
+      ]
+    },
+    {
+      "id": "69f5f3119d38cb62b6fff749",
+      "name": "Action & Dynamic Scenes",
+      "slug": "action-dynamic-scenes",
+      "icon": "🎬",
+      "description": "Action & Dynamic Scenes",
+      "total_items": 9,
+      "documents": [
+        {
+          "id": "69f5f3159d38cb62b6fff784",
+          "title": "ChatGPT Image May 2, 2026, 05_58_26 PM",
+          "description": "ChatGPT Image May 2, 2026, 05_58_26 PM",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f3179d38cb62b6fff792",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726231/drawing-app/documents/jij1vx5suznj3nnhskvp.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726231/drawing-app/documents/jij1vx5suznj3nnhskvp.jpg",
+          "createdAt": "2026-05-02T12:50:29.947Z",
+          "updatedAt": "2026-05-02T12:50:31.706Z"
+        },
+        {
+          "id": "69f5f3159d38cb62b6fff782",
+          "title": "Jumping in Air",
+          "description": "Jumping in Air",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f3169d38cb62b6fff78e",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726230/drawing-app/documents/iqxvsusscsj8ic3cwnsj.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726230/drawing-app/documents/iqxvsusscsj8ic3cwnsj.jpg",
+          "createdAt": "2026-05-02T12:50:29.946Z",
+          "updatedAt": "2026-05-02T12:50:30.978Z"
+        },
+        {
+          "id": "69f5f3159d38cb62b6fff780",
+          "title": "Football Kick",
+          "description": "Football Kick",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f3169d38cb62b6fff78a",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726230/drawing-app/documents/nhnaahqt2xjuqko4phi2.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726230/drawing-app/documents/nhnaahqt2xjuqko4phi2.jpg",
+          "createdAt": "2026-05-02T12:50:29.944Z",
+          "updatedAt": "2026-05-02T12:50:30.904Z"
+        },
+        {
+          "id": "69f5f3149d38cb62b6fff76c",
+          "title": "Dancing Motion",
+          "description": "Dancing Motion",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f3159d38cb62b6fff77a",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726229/drawing-app/documents/z9aktrkt9f6tquigssu6.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726229/drawing-app/documents/z9aktrkt9f6tquigssu6.jpg",
+          "createdAt": "2026-05-02T12:50:28.737Z",
+          "updatedAt": "2026-05-02T12:50:29.855Z"
+        },
+        {
+          "id": "69f5f3149d38cb62b6fff76a",
+          "title": "Martial Arts Kick",
+          "description": "Martial Arts Kick",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f3159d38cb62b6fff775",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726229/drawing-app/documents/mibywqgnbv8hnrppjbxk.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726229/drawing-app/documents/mibywqgnbv8hnrppjbxk.jpg",
+          "createdAt": "2026-05-02T12:50:28.736Z",
+          "updatedAt": "2026-05-02T12:50:29.794Z"
+        },
+        {
+          "id": "69f5f3149d38cb62b6fff768",
+          "title": "Basketball Dunk",
+          "description": "Basketball Dunk",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f3159d38cb62b6fff773",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726229/drawing-app/documents/j6tpuwjptgwqcitqaykh.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726229/drawing-app/documents/j6tpuwjptgwqcitqaykh.jpg",
+          "createdAt": "2026-05-02T12:50:28.735Z",
+          "updatedAt": "2026-05-02T12:50:29.770Z"
+        },
+        {
+          "id": "69f5f3119d38cb62b6fff754",
+          "title": "Climbing Action",
+          "description": "Climbing Action",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f3149d38cb62b6fff762",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726228/drawing-app/documents/nzqf32wgacmjkailoj1x.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726228/drawing-app/documents/nzqf32wgacmjkailoj1x.jpg",
+          "createdAt": "2026-05-02T12:50:25.383Z",
+          "updatedAt": "2026-05-02T12:50:28.641Z"
+        },
+        {
+          "id": "69f5f3119d38cb62b6fff752",
+          "title": "Throwing Motion",
+          "description": "Throwing Motion",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f3149d38cb62b6fff75a",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726227/drawing-app/documents/btygmei0nnlegeeugmx8.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726227/drawing-app/documents/btygmei0nnlegeeugmx8.jpg",
+          "createdAt": "2026-05-02T12:50:25.381Z",
+          "updatedAt": "2026-05-02T12:50:28.042Z"
+        },
+        {
+          "id": "69f5f3119d38cb62b6fff750",
+          "title": "Skateboard Trick",
+          "description": "Skateboard Trick",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f3149d38cb62b6fff75e",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726227/drawing-app/documents/hlevtfdkzdx1s6j9caty.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726227/drawing-app/documents/hlevtfdkzdx1s6j9caty.jpg",
+          "createdAt": "2026-05-02T12:50:25.379Z",
+          "updatedAt": "2026-05-02T12:50:28.119Z"
+        }
+      ]
+    },
+    {
+      "id": "69f5f57d9d38cb62b6fff797",
+      "name": "Interior & Room Design",
+      "slug": "interior-room-design",
+      "icon": "🏡",
+      "description": "Portrait drawings and sketches",
+      "total_items": 12,
+      "documents": [
+        {
+          "id": "69f5f5829d38cb62b6fff7ea",
+          "title": "Caf_ Interior",
+          "description": "Caf_ Interior",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f5849d38cb62b6fff7f1",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726851/drawing-app/documents/qze630y7fpn0caoxj1ir.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726851/drawing-app/documents/qze630y7fpn0caoxj1ir.jpg",
+          "createdAt": "2026-05-02T13:00:50.997Z",
+          "updatedAt": "2026-05-02T13:00:52.176Z"
+        },
+        {
+          "id": "69f5f5829d38cb62b6fff7e8",
+          "title": "Luxury Living Room",
+          "description": "Luxury Living Room",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f5849d38cb62b6fff7f3",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726851/drawing-app/documents/sgneg17vfbwdibnj89nk.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726851/drawing-app/documents/sgneg17vfbwdibnj89nk.jpg",
+          "createdAt": "2026-05-02T13:00:50.993Z",
+          "updatedAt": "2026-05-02T13:00:52.188Z"
+        },
+        {
+          "id": "69f5f5829d38cb62b6fff7e6",
+          "title": "Modern Bedroom",
+          "description": "Modern Bedroom",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f5849d38cb62b6fff7f8",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726851/drawing-app/documents/cfaegmgmdjjbwi5lxv8q.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726851/drawing-app/documents/cfaegmgmdjjbwi5lxv8q.jpg",
+          "createdAt": "2026-05-02T13:00:50.991Z",
+          "updatedAt": "2026-05-02T13:00:52.518Z"
+        },
+        {
+          "id": "69f5f5819d38cb62b6fff7d2",
+          "title": "Gaming Setup Room",
+          "description": "Gaming Setup Room",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f5829d38cb62b6fff7da",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726850/drawing-app/documents/y4zqbxuwbx6487ox8jjm.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726850/drawing-app/documents/y4zqbxuwbx6487ox8jjm.jpg",
+          "createdAt": "2026-05-02T13:00:49.912Z",
+          "updatedAt": "2026-05-02T13:00:50.874Z"
+        },
+        {
+          "id": "69f5f5819d38cb62b6fff7d0",
+          "title": "Kids Room",
+          "description": "Kids Room",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f5829d38cb62b6fff7de",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726850/drawing-app/documents/qq3kwlbv2zxr6mzprdxh.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726850/drawing-app/documents/qq3kwlbv2zxr6mzprdxh.jpg",
+          "createdAt": "2026-05-02T13:00:49.909Z",
+          "updatedAt": "2026-05-02T13:00:50.895Z"
+        },
+        {
+          "id": "69f5f5819d38cb62b6fff7ce",
+          "title": "Office Workspace",
+          "description": "Office Workspace",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f5829d38cb62b6fff7dc",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726850/drawing-app/documents/phjdy9yssnyrc7kebjg7.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726850/drawing-app/documents/phjdy9yssnyrc7kebjg7.jpg",
+          "createdAt": "2026-05-02T13:00:49.907Z",
+          "updatedAt": "2026-05-02T13:00:50.891Z"
+        },
+        {
+          "id": "69f5f5809d38cb62b6fff7ba",
+          "title": "Small Living Room",
+          "description": "Small Living Room",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f5819d38cb62b6fff7c8",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726849/drawing-app/documents/o15edonubtimwjt1xa4l.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726849/drawing-app/documents/o15edonubtimwjt1xa4l.jpg",
+          "createdAt": "2026-05-02T13:00:48.346Z",
+          "updatedAt": "2026-05-02T13:00:49.808Z"
+        },
+        {
+          "id": "69f5f5809d38cb62b6fff7b8",
+          "title": "Dining Room",
+          "description": "Dining Room",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f5819d38cb62b6fff7c0",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726848/drawing-app/documents/aybucgpz8iac3lczqslu.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726848/drawing-app/documents/aybucgpz8iac3lczqslu.jpg",
+          "createdAt": "2026-05-02T13:00:48.344Z",
+          "updatedAt": "2026-05-02T13:00:49.297Z"
+        },
+        {
+          "id": "69f5f5809d38cb62b6fff7b6",
+          "title": "Kitchen Counter",
+          "description": "Kitchen Counter",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f5819d38cb62b6fff7c4",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726849/drawing-app/documents/zmbuubieem5kukwjpnal.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726849/drawing-app/documents/zmbuubieem5kukwjpnal.jpg",
+          "createdAt": "2026-05-02T13:00:48.342Z",
+          "updatedAt": "2026-05-02T13:00:49.540Z"
+        },
+        {
+          "id": "69f5f57d9d38cb62b6fff7a2",
+          "title": "Simple Bedroom",
+          "description": "Simple Bedroom",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f57f9d38cb62b6fff7a8",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726847/drawing-app/documents/mxvmhkwu3bc9ktzcn11a.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726847/drawing-app/documents/mxvmhkwu3bc9ktzcn11a.jpg",
+          "createdAt": "2026-05-02T13:00:45.177Z",
+          "updatedAt": "2026-05-02T13:00:47.596Z"
+        },
+        {
+          "id": "69f5f57d9d38cb62b6fff7a0",
+          "title": "Study Desk Setup",
+          "description": "Study Desk Setup",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f5809d38cb62b6fff7ac",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726847/drawing-app/documents/atsr3ctrig3o4gsljehn.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726847/drawing-app/documents/atsr3ctrig3o4gsljehn.jpg",
+          "createdAt": "2026-05-02T13:00:45.174Z",
+          "updatedAt": "2026-05-02T13:00:48.133Z"
+        },
+        {
+          "id": "69f5f57d9d38cb62b6fff79e",
+          "title": "bad room",
+          "description": "bad room",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f5809d38cb62b6fff7b0",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726847/drawing-app/documents/p8ot8lyefdexjalmdlc4.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777726847/drawing-app/documents/p8ot8lyefdexjalmdlc4.jpg",
+          "createdAt": "2026-05-02T13:00:45.172Z",
+          "updatedAt": "2026-05-02T13:00:48.240Z"
+        }
+      ]
+    },
+    {
+      "id": "69f5f8009d38cb62b6fff7fd",
+      "name": "Optical Illusions & Mind Tricks",
+      "slug": "optical-illusions-mind-tricks",
+      "icon": "🧠",
+      "description": "Optical Illusions & Mind Tricks",
+      "total_items": 11,
+      "documents": [
+        {
+          "id": "69f5f8059d38cb62b6fff84d",
+          "title": "Endless Tunnel Illusion",
+          "description": "Endless Tunnel Illusion",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f8069d38cb62b6fff856",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727494/drawing-app/documents/eyjdvmtb3dq18bohhpd2.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727494/drawing-app/documents/eyjdvmtb3dq18bohhpd2.jpg",
+          "createdAt": "2026-05-02T13:11:33.674Z",
+          "updatedAt": "2026-05-02T13:11:34.725Z"
+        },
+        {
+          "id": "69f5f8059d38cb62b6fff84b",
+          "title": "Layered Cube Structure",
+          "description": "Layered Cube Structure",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f8069d38cb62b6fff852",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727494/drawing-app/documents/n1dqt7tg77vgptyxnbqz.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727494/drawing-app/documents/n1dqt7tg77vgptyxnbqz.jpg",
+          "createdAt": "2026-05-02T13:11:33.669Z",
+          "updatedAt": "2026-05-02T13:11:34.569Z"
+        },
+        {
+          "id": "69f5f8049d38cb62b6fff838",
+          "title": "Floating Shapes Illusion",
+          "description": "Floating Shapes Illusion",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f8059d38cb62b6fff83f",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727493/drawing-app/documents/kkyd8q79h1p05bgf57tz.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727493/drawing-app/documents/kkyd8q79h1p05bgf57tz.jpg",
+          "createdAt": "2026-05-02T13:11:32.488Z",
+          "updatedAt": "2026-05-02T13:11:33.391Z"
+        },
+        {
+          "id": "69f5f8049d38cb62b6fff836",
+          "title": "Perspective Box Illusion",
+          "description": "Perspective Box Illusion",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f8059d38cb62b6fff846",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727493/drawing-app/documents/xxu7bnsffwe53mrckaob.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727493/drawing-app/documents/xxu7bnsffwe53mrckaob.jpg",
+          "createdAt": "2026-05-02T13:11:32.484Z",
+          "updatedAt": "2026-05-02T13:11:33.571Z"
+        },
+        {
+          "id": "69f5f8049d38cb62b6fff834",
+          "title": "Interlocking Rings Illusion",
+          "description": "Interlocking Rings Illusion",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f8059d38cb62b6fff841",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727493/drawing-app/documents/jenglnmdf8neuhfuis88.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727493/drawing-app/documents/jenglnmdf8neuhfuis88.jpg",
+          "createdAt": "2026-05-02T13:11:32.483Z",
+          "updatedAt": "2026-05-02T13:11:33.400Z"
+        },
+        {
+          "id": "69f5f8029d38cb62b6fff820",
+          "title": "Infinite Loop Shape",
+          "description": "Infinite Loop Shape",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f8039d38cb62b6fff826",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727491/drawing-app/documents/kegnlo8ldqgpm9kbjgll.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727491/drawing-app/documents/kegnlo8ldqgpm9kbjgll.jpg",
+          "createdAt": "2026-05-02T13:11:30.855Z",
+          "updatedAt": "2026-05-02T13:11:31.950Z"
+        },
+        {
+          "id": "69f5f8029d38cb62b6fff81e",
+          "title": "3D Grid Illusion",
+          "description": "3D Grid Illusion",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f8049d38cb62b6fff82e",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727491/drawing-app/documents/ag8zh243w2m7hnuk0dug.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727491/drawing-app/documents/ag8zh243w2m7hnuk0dug.jpg",
+          "createdAt": "2026-05-02T13:11:30.850Z",
+          "updatedAt": "2026-05-02T13:11:32.383Z"
+        },
+        {
+          "id": "69f5f8029d38cb62b6fff81c",
+          "title": "Optical Spiral",
+          "description": "Optical Spiral",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f8049d38cb62b6fff82a",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727491/drawing-app/documents/sngezozspa1taww26nrx.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727491/drawing-app/documents/sngezozspa1taww26nrx.jpg",
+          "createdAt": "2026-05-02T13:11:30.848Z",
+          "updatedAt": "2026-05-02T13:11:32.078Z"
+        },
+        {
+          "id": "69f5f8009d38cb62b6fff808",
+          "title": "Impossible Staircase",
+          "description": "Impossible Staircase",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f8029d38cb62b6fff816",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727490/drawing-app/documents/ep9xjfcn3gx6tfiehj7w.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727490/drawing-app/documents/ep9xjfcn3gx6tfiehj7w.jpg",
+          "createdAt": "2026-05-02T13:11:28.190Z",
+          "updatedAt": "2026-05-02T13:11:30.741Z"
+        },
+        {
+          "id": "69f5f8009d38cb62b6fff806",
+          "title": "3D Cube Illusion",
+          "description": "3D Cube Illusion",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f8029d38cb62b6fff812",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727490/drawing-app/documents/khkntidq5u335v9hxomk.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727490/drawing-app/documents/khkntidq5u335v9hxomk.jpg",
+          "createdAt": "2026-05-02T13:11:28.186Z",
+          "updatedAt": "2026-05-02T13:11:30.662Z"
+        },
+        {
+          "id": "69f5f8009d38cb62b6fff804",
+          "title": "Impossible Triangle",
+          "description": "Impossible Triangle",
+          "status": "active",
+          "main_image": {
+            "cloudinaryId": null,
+            "url": null
+          },
+          "images": [
+            {
+              "id": "69f5f8029d38cb62b6fff80e",
+              "url": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727490/drawing-app/documents/v8qadzs0lsjzrwjoeo1j.jpg",
+              "order": 1
+            }
+          ],
+          "image": "https://res.cloudinary.com/dtkt1ywcf/image/upload/v1777727490/drawing-app/documents/v8qadzs0lsjzrwjoeo1j.jpg",
+          "createdAt": "2026-05-02T13:11:28.182Z",
+          "updatedAt": "2026-05-02T13:11:30.591Z"
         }
       ]
     }
